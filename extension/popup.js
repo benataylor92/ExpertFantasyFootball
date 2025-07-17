@@ -1,16 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import useFPLMe from '../src/useFPLMe.js';
-
-function App() {
-  const data = useFPLMe();
-  if (!data) {
-    return React.createElement('div', null, 'Loading...');
-  }
-  return React.createElement('pre', null, JSON.stringify(data, null, 2));
-}
+import PlayerData from '../src/PlayerData.js';
 
 ReactDOM.render(
-  React.createElement(App, null),
+  React.createElement(PlayerData, null),
   document.getElementById('root')
 );

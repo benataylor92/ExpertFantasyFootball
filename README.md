@@ -30,3 +30,10 @@ This repository also contains a simple Chrome extension named **Expert Fantasy F
 2. Enable **Developer mode** in the top-right corner.
 3. Click **Load unpacked** and select the `extension` folder from this repository.
 4. The extension icon will appear in your browser toolbar. Click it to view your FPL data.
+
+## Player Data Example
+
+The project includes a reusable table component in `src/Table.js`.
+`src/mockApi.js` generates mock player names and random point totals.
+`src/PlayerData.js` combines these pieces and is rendered by the Chrome
+extension so you can see sample data without accessing a real API.
