@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Expert Fantasy Football V2",
+  "description": "Chrome extension to display Fantasy Premier League data.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Expert Fantasy Football V2"
+  },
+  "host_permissions": [
+    "https://fantasy.premierleague.com/*"
+  ]
+}

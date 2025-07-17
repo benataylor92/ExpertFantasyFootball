@@ -19,3 +19,14 @@ While this repository does not include source code, it is meant as a simple star
 5. Compete for the best record and the league title!
 
 Fantasy football brings fans closer to the action by making every game meaningful and engaging. If you're new to the game, take time to understand player rankings, scoring rules, and strategies for building a winning roster.
+
+## Chrome Extension - Expert Fantasy Football V2
+
+This repository also contains a simple Chrome extension named **Expert Fantasy Football V2**. The extension uses the code in `src/useFPLMe.js` to fetch your Fantasy Premier League data and display it in a popup.
+
+### Installation
+
+1. Open Chrome and navigate to `chrome://extensions`.
+2. Enable **Developer mode** in the top-right corner.
+3. Click **Load unpacked** and select the `extension` folder from this repository.
+4. The extension icon will appear in your browser toolbar. Click it to view your FPL data.
