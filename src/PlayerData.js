@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import Table from './Table.js';
-import { fetchPlayerData } from './mockApi.js';
 
 /**
  * Component that fetches player data from the mocked API and displays it
@@ -10,7 +9,9 @@ export default function PlayerData() {
   const [players, setPlayers] = useState([]);
 
   useEffect(() => {
-    fetchPlayerData().then(setPlayers);
+    fetch(new URL('./players.json', import.meta.url))
+      .then((res) => res.json())
+      .then(setPlayers);
   }, []);
 
   const columns = [

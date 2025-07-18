@@ -34,6 +34,5 @@ This repository also contains a simple Chrome extension named **Expert Fantasy F
 ## Player Data Example
 
 The project includes a reusable table component in `src/Table.js`.
-`src/mockApi.js` generates mock player names and random point totals.
-`src/PlayerData.js` combines these pieces and is rendered by the Chrome
-extension so you can see sample data without accessing a real API.
+`src/PlayerData.js` loads data from the `src/players.json` file and renders it
+with the table so you can see sample data without accessing a real API.
