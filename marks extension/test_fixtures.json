@@ -1,0 +1,3826 @@
+{
+  "gameweeks": [
+    {
+      "GW": 1,
+      "Start": "2024-08-16T17:30:00Z",
+      "Competitions": [
+        "EUROPA_CONFERENCE"
+      ]
+    },
+    {
+      "GW": 2,
+      "Start": "2024-08-24T10:00:00Z",
+      "Competitions": [
+        "EUROPA_CONFERENCE",
+        "LEAGUECUP"
+      ]
+    },
+    {
+      "GW": 3,
+      "Start": "2024-08-31T10:00:00Z"
+    },
+    {
+      "GW": 4,
+      "Start": "2024-09-14T10:00:00Z",
+      "Competitions": [
+        "LEAGUECUP",
+        "CHAMPIONSLEAGUE"
+      ]
+    },
+    {
+      "GW": 5,
+      "Start": "2024-09-21T10:00:00Z",
+      "Competitions": [
+        "EUROPA",
+        "LEAGUECUP"
+      ]
+    },
+    {
+      "GW": 6,
+      "Start": "2024-09-28T10:00:00Z",
+      "Competitions": [
+        "EUROPA",
+        "EUROPA_CONFERENCE",
+        "LEAGUECUP",
+        "CHAMPIONSLEAGUE"
+      ]
+    },
+    {
+      "GW": 7,
+      "Start": "2024-10-05T10:00:00Z"
+    },
+    {
+      "GW": 8,
+      "Start": "2024-10-19T10:00:00Z",
+      "Competitions": [
+        "EUROPA",
+        "EUROPA_CONFERENCE",
+        "CHAMPIONSLEAGUE"
+      ]
+    },
+    {
+      "GW": 9,
+      "Start": "2024-10-25T17:30:00Z",
+      "Competitions": [
+        "LEAGUECUP"
+      ]
+    },
+    {
+      "GW": 10,
+      "Start": "2024-11-02T11:00:00Z",
+      "Competitions": [
+        "EUROPA",
+        "EUROPA_CONFERENCE",
+        "CHAMPIONSLEAGUE"
+      ]
+    },
+    {
+      "GW": 11,
+      "Start": "2024-11-09T13:30:00Z"
+    },
+    {
+      "GW": 12,
+      "Start": "2024-11-23T11:00:00Z",
+      "Competitions": [
+        "EUROPA",
+        "EUROPA_CONFERENCE",
+        "CHAMPIONSLEAGUE"
+      ]
+    },
+    {
+      "GW": 13,
+      "Start": "2024-11-29T18:30:00Z"
+    },
+    {
+      "GW": 14,
+      "Start": "2024-12-03T18:00:00Z"
+    },
+    {
+      "GW": 15,
+      "Start": "2024-12-07T11:00:00Z",
+      "Competitions": [
+        "EUROPA",
+        "EUROPA_CONFERENCE",
+        "CHAMPIONSLEAGUE"
+      ]
+    },
+    {
+      "GW": 16,
+      "Start": "2024-12-14T13:30:00Z",
+      "Competitions": [
+        "EUROPA_CONFERENCE",
+        "LEAGUECUP"
+      ]
+    },
+    {
+      "GW": 17,
+      "Start": "2024-12-21T11:00:00Z"
+    },
+    {
+      "GW": 18,
+      "Start": "2024-12-26T11:00:00Z"
+    },
+    {
+      "GW": 19,
+      "Start": "2024-12-29T13:00:00Z"
+    },
+    {
+      "GW": 20,
+      "Start": "2025-01-04T11:00:00Z",
+      "Competitions": [
+        "FACUP",
+        "LEAGUECUP"
+      ]
+    },
+    {
+      "GW": 21,
+      "Start": "2025-01-14T18:00:00Z"
+    },
+    {
+      "GW": 22,
+      "Start": "2025-01-18T11:00:00Z",
+      "Competitions": [
+        "EUROPA",
+        "CHAMPIONSLEAGUE"
+      ]
+    },
+    {
+      "GW": 23,
+      "Start": "2025-01-25T13:30:00Z",
+      "Competitions": [
+        "EUROPA",
+        "CHAMPIONSLEAGUE"
+      ]
+    },
+    {
+      "GW": 24,
+      "Start": "2025-02-01T11:00:00Z",
+      "Competitions": [
+        "LEAGUECUP"
+      ]
+    },
+    {
+      "GW": 25,
+      "Start": "2025-02-14T18:30:00Z"
+    },
+    {
+      "GW": 26,
+      "Start": "2025-02-21T18:30:00Z"
+    },
+    {
+      "GW": 27,
+      "Start": "2025-02-25T18:15:00Z"
+    },
+    {
+      "GW": 28,
+      "Start": "2025-03-08T13:30:00Z"
+    },
+    {
+      "GW": 29,
+      "Start": "2025-03-15T13:30:00Z"
+    },
+    {
+      "GW": 30,
+      "Start": "2025-04-01T17:15:00Z"
+    },
+    {
+      "GW": 31,
+      "Start": "2025-04-05T12:30:00Z"
+    },
+    {
+      "GW": 32,
+      "Start": "2025-04-12T12:30:00Z"
+    },
+    {
+      "GW": 33,
+      "Start": "2025-04-19T12:30:00Z"
+    },
+    {
+      "GW": 34,
+      "Start": "2025-04-26T12:30:00Z"
+    },
+    {
+      "GW": 35,
+      "Start": "2025-05-03T12:30:00Z"
+    },
+    {
+      "GW": 36,
+      "Start": "2025-05-10T12:30:00Z"
+    },
+    {
+      "GW": 37,
+      "Start": "2025-05-18T12:30:00Z"
+    },
+    {
+      "GW": 38,
+      "Start": "2025-05-25T13:30:00Z"
+    }
+  ],
+  "teams": [
+    {
+      "name": "Arsenal",
+      "short_name": "ARS",
+      "strength": 4,
+      "strength_overall_home": 1250,
+      "strength_overall_away": 1360,
+      "strength_attack_home": 1260,
+      "strength_attack_away": 1370,
+      "strength_defence_home": 1240,
+      "strength_defence_away": 1350
+    },
+    {
+      "name": "Aston Villa",
+      "short_name": "AVL",
+      "strength": 3,
+      "strength_overall_home": 1110,
+      "strength_overall_away": 1240,
+      "strength_attack_home": 1080,
+      "strength_attack_away": 1160,
+      "strength_defence_home": 1140,
+      "strength_defence_away": 1320
+    },
+    {
+      "name": "Bournemouth",
+      "short_name": "BOU",
+      "strength": 3,
+      "strength_overall_home": 1140,
+      "strength_overall_away": 1175,
+      "strength_attack_home": 1080,
+      "strength_attack_away": 1140,
+      "strength_defence_home": 1190,
+      "strength_defence_away": 1210
+    },
+    {
+      "name": "Brentford",
+      "short_name": "BRE",
+      "strength": 3,
+      "strength_overall_home": 1080,
+      "strength_overall_away": 1225,
+      "strength_attack_home": 1070,
+      "strength_attack_away": 1100,
+      "strength_defence_home": 1090,
+      "strength_defence_away": 1350
+    },
+    {
+      "name": "Brighton",
+      "short_name": "BHA",
+      "strength": 3,
+      "strength_overall_home": 1110,
+      "strength_overall_away": 1150,
+      "strength_attack_home": 1080,
+      "strength_attack_away": 1100,
+      "strength_defence_home": 1140,
+      "strength_defence_away": 1200
+    },
+    {
+      "name": "Chelsea",
+      "short_name": "CHE",
+      "strength": 4,
+      "strength_overall_home": 1255,
+      "strength_overall_away": 1255,
+      "strength_attack_home": 1150,
+      "strength_attack_away": 1150,
+      "strength_defence_home": 1360,
+      "strength_defence_away": 1360
+    },
+    {
+      "name": "Crystal Palace",
+      "short_name": "CRY",
+      "strength": 3,
+      "strength_overall_home": 1120,
+      "strength_overall_away": 1125,
+      "strength_attack_home": 1130,
+      "strength_attack_away": 1140,
+      "strength_defence_home": 1110,
+      "strength_defence_away": 1110
+    },
+    {
+      "name": "Everton",
+      "short_name": "EVE",
+      "strength": 3,
+      "strength_overall_home": 1095,
+      "strength_overall_away": 1125,
+      "strength_attack_home": 1130,
+      "strength_attack_away": 1150,
+      "strength_defence_home": 1060,
+      "strength_defence_away": 1100
+    },
+    {
+      "name": "Fulham",
+      "short_name": "FUL",
+      "strength": 3,
+      "strength_overall_home": 1125,
+      "strength_overall_away": 1140,
+      "strength_attack_home": 1140,
+      "strength_attack_away": 1140,
+      "strength_defence_home": 1110,
+      "strength_defence_away": 1160
+    },
+    {
+      "name": "Ipswich",
+      "short_name": "IPS",
+      "strength": 3,
+      "strength_overall_home": 1075,
+      "strength_overall_away": 1075,
+      "strength_attack_home": 1070,
+      "strength_attack_away": 1070,
+      "strength_defence_home": 1080,
+      "strength_defence_away": 1080
+    },
+    {
+      "name": "Leicester",
+      "short_name": "LEI",
+      "strength": 3,
+      "strength_overall_home": 1070,
+      "strength_overall_away": 1090,
+      "strength_attack_home": 1050,
+      "strength_attack_away": 1080,
+      "strength_defence_home": 1090,
+      "strength_defence_away": 1110
+    },
+    {
+      "name": "Liverpool",
+      "short_name": "LIV",
+      "strength": 5,
+      "strength_overall_home": 1350,
+      "strength_overall_away": 1360,
+      "strength_attack_home": 1340,
+      "strength_attack_away": 1360,
+      "strength_defence_home": 1360,
+      "strength_defence_away": 1360
+    },
+    {
+      "name": "Man City",
+      "short_name": "MCI",
+      "strength": 4,
+      "strength_overall_home": 1220,
+      "strength_overall_away": 1290,
+      "strength_attack_home": 1140,
+      "strength_attack_away": 1230,
+      "strength_defence_home": 1300,
+      "strength_defence_away": 1350
+    },
+    {
+      "name": "Man Utd",
+      "short_name": "MUN",
+      "strength": 3,
+      "strength_overall_home": 1125,
+      "strength_overall_away": 1155,
+      "strength_attack_home": 1140,
+      "strength_attack_away": 1140,
+      "strength_defence_home": 1110,
+      "strength_defence_away": 1170
+    },
+    {
+      "name": "Newcastle",
+      "short_name": "NEW",
+      "strength": 3,
+      "strength_overall_home": 1115,
+      "strength_overall_away": 1220,
+      "strength_attack_home": 1100,
+      "strength_attack_away": 1150,
+      "strength_defence_home": 1130,
+      "strength_defence_away": 1290
+    },
+    {
+      "name": "Nott'm Forest",
+      "short_name": "NFO",
+      "strength": 3,
+      "strength_overall_home": 1130,
+      "strength_overall_away": 1175,
+      "strength_attack_home": 1140,
+      "strength_attack_away": 1230,
+      "strength_defence_home": 1130,
+      "strength_defence_away": 1130
+    },
+    {
+      "name": "Southampton",
+      "short_name": "SOU",
+      "strength": 2,
+      "strength_overall_home": 1055,
+      "strength_overall_away": 1075,
+      "strength_attack_home": 1060,
+      "strength_attack_away": 1060,
+      "strength_defence_home": 1050,
+      "strength_defence_away": 1090
+    },
+    {
+      "name": "Spurs",
+      "short_name": "TOT",
+      "strength": 4,
+      "strength_overall_home": 1220,
+      "strength_overall_away": 1245,
+      "strength_attack_home": 1140,
+      "strength_attack_away": 1140,
+      "strength_defence_home": 1300,
+      "strength_defence_away": 1350
+    },
+    {
+      "name": "West Ham",
+      "short_name": "WHU",
+      "strength": 3,
+      "strength_overall_home": 1100,
+      "strength_overall_away": 1090,
+      "strength_attack_home": 1080,
+      "strength_attack_away": 1070,
+      "strength_defence_home": 1100,
+      "strength_defence_away": 1130
+    },
+    {
+      "name": "Wolves",
+      "short_name": "WOL",
+      "strength": 3,
+      "strength_overall_home": 1085,
+      "strength_overall_away": 1095,
+      "strength_attack_home": 1070,
+      "strength_attack_away": 1070,
+      "strength_defence_home": 1100,
+      "strength_defence_away": 1120
+    }
+  ],
+  "fixtures": {
+    "1": [
+      {
+        "Home": "MUN",
+        "Away": "FUL",
+        "HomeScore": 1,
+        "AwayScore": 0,
+        "Kickoff": "2024-08-16T19:00:00Z"
+      },
+      {
+        "Home": "IPS",
+        "Away": "LIV",
+        "HomeScore": 0,
+        "AwayScore": 2,
+        "Kickoff": "2024-08-17T11:30:00Z"
+      },
+      {
+        "Home": "ARS",
+        "Away": "WOL",
+        "HomeScore": 2,
+        "AwayScore": 0,
+        "Kickoff": "2024-08-17T14:00:00Z"
+      },
+      {
+        "Home": "EVE",
+        "Away": "BHA",
+        "HomeScore": 0,
+        "AwayScore": 3,
+        "Kickoff": "2024-08-17T14:00:00Z"
+      },
+      {
+        "Home": "NEW",
+        "Away": "SOU",
+        "HomeScore": 1,
+        "AwayScore": 0,
+        "Kickoff": "2024-08-17T14:00:00Z"
+      },
+      {
+        "Home": "NFO",
+        "Away": "BOU",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-08-17T14:00:00Z"
+      },
+      {
+        "Home": "WHU",
+        "Away": "AVL",
+        "HomeScore": 1,
+        "AwayScore": 2,
+        "Kickoff": "2024-08-17T16:30:00Z"
+      },
+      {
+        "Home": "BRE",
+        "Away": "CRY",
+        "HomeScore": 2,
+        "AwayScore": 1,
+        "Kickoff": "2024-08-18T13:00:00Z"
+      },
+      {
+        "Home": "CHE",
+        "Away": "MCI",
+        "HomeScore": 0,
+        "AwayScore": 2,
+        "Kickoff": "2024-08-18T15:30:00Z"
+      },
+      {
+        "Home": "LEI",
+        "Away": "TOT",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-08-19T19:00:00Z"
+      }
+    ],
+    "2": [
+      {
+        "Home": "BHA",
+        "Away": "MUN",
+        "HomeScore": 2,
+        "AwayScore": 1,
+        "Kickoff": "2024-08-24T11:30:00Z"
+      },
+      {
+        "Home": "CRY",
+        "Away": "WHU",
+        "HomeScore": 0,
+        "AwayScore": 2,
+        "Kickoff": "2024-08-24T14:00:00Z"
+      },
+      {
+        "Home": "FUL",
+        "Away": "LEI",
+        "HomeScore": 2,
+        "AwayScore": 1,
+        "Kickoff": "2024-08-24T14:00:00Z"
+      },
+      {
+        "Home": "MCI",
+        "Away": "IPS",
+        "HomeScore": 4,
+        "AwayScore": 1,
+        "Kickoff": "2024-08-24T14:00:00Z"
+      },
+      {
+        "Home": "SOU",
+        "Away": "NFO",
+        "HomeScore": 0,
+        "AwayScore": 1,
+        "Kickoff": "2024-08-24T14:00:00Z"
+      },
+      {
+        "Home": "TOT",
+        "Away": "EVE",
+        "HomeScore": 4,
+        "AwayScore": 0,
+        "Kickoff": "2024-08-24T14:00:00Z"
+      },
+      {
+        "Home": "AVL",
+        "Away": "ARS",
+        "HomeScore": 0,
+        "AwayScore": 2,
+        "Kickoff": "2024-08-24T16:30:00Z"
+      },
+      {
+        "Home": "BOU",
+        "Away": "NEW",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-08-25T13:00:00Z"
+      },
+      {
+        "Home": "WOL",
+        "Away": "CHE",
+        "HomeScore": 2,
+        "AwayScore": 6,
+        "Kickoff": "2024-08-25T13:00:00Z"
+      },
+      {
+        "Home": "LIV",
+        "Away": "BRE",
+        "HomeScore": 2,
+        "AwayScore": 0,
+        "Kickoff": "2024-08-25T15:30:00Z"
+      }
+    ],
+    "3": [
+      {
+        "Home": "ARS",
+        "Away": "BHA",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-08-31T11:30:00Z"
+      },
+      {
+        "Home": "BRE",
+        "Away": "SOU",
+        "HomeScore": 3,
+        "AwayScore": 1,
+        "Kickoff": "2024-08-31T14:00:00Z"
+      },
+      {
+        "Home": "EVE",
+        "Away": "BOU",
+        "HomeScore": 2,
+        "AwayScore": 3,
+        "Kickoff": "2024-08-31T14:00:00Z"
+      },
+      {
+        "Home": "IPS",
+        "Away": "FUL",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-08-31T14:00:00Z"
+      },
+      {
+        "Home": "LEI",
+        "Away": "AVL",
+        "HomeScore": 1,
+        "AwayScore": 2,
+        "Kickoff": "2024-08-31T14:00:00Z"
+      },
+      {
+        "Home": "NFO",
+        "Away": "WOL",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-08-31T14:00:00Z"
+      },
+      {
+        "Home": "WHU",
+        "Away": "MCI",
+        "HomeScore": 1,
+        "AwayScore": 3,
+        "Kickoff": "2024-08-31T16:30:00Z"
+      },
+      {
+        "Home": "CHE",
+        "Away": "CRY",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-09-01T12:30:00Z"
+      },
+      {
+        "Home": "NEW",
+        "Away": "TOT",
+        "HomeScore": 2,
+        "AwayScore": 1,
+        "Kickoff": "2024-09-01T12:30:00Z"
+      },
+      {
+        "Home": "MUN",
+        "Away": "LIV",
+        "HomeScore": 0,
+        "AwayScore": 3,
+        "Kickoff": "2024-09-01T15:00:00Z"
+      }
+    ],
+    "4": [
+      {
+        "Home": "SOU",
+        "Away": "MUN",
+        "HomeScore": 0,
+        "AwayScore": 3,
+        "Kickoff": "2024-09-14T11:30:00Z"
+      },
+      {
+        "Home": "BHA",
+        "Away": "IPS",
+        "HomeScore": 0,
+        "AwayScore": 0,
+        "Kickoff": "2024-09-14T14:00:00Z"
+      },
+      {
+        "Home": "CRY",
+        "Away": "LEI",
+        "HomeScore": 2,
+        "AwayScore": 2,
+        "Kickoff": "2024-09-14T14:00:00Z"
+      },
+      {
+        "Home": "FUL",
+        "Away": "WHU",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-09-14T14:00:00Z"
+      },
+      {
+        "Home": "LIV",
+        "Away": "NFO",
+        "HomeScore": 0,
+        "AwayScore": 1,
+        "Kickoff": "2024-09-14T14:00:00Z"
+      },
+      {
+        "Home": "MCI",
+        "Away": "BRE",
+        "HomeScore": 2,
+        "AwayScore": 1,
+        "Kickoff": "2024-09-14T14:00:00Z"
+      },
+      {
+        "Home": "AVL",
+        "Away": "EVE",
+        "HomeScore": 3,
+        "AwayScore": 2,
+        "Kickoff": "2024-09-14T16:30:00Z"
+      },
+      {
+        "Home": "BOU",
+        "Away": "CHE",
+        "HomeScore": 0,
+        "AwayScore": 1,
+        "Kickoff": "2024-09-14T19:00:00Z"
+      },
+      {
+        "Home": "TOT",
+        "Away": "ARS",
+        "HomeScore": 0,
+        "AwayScore": 1,
+        "Kickoff": "2024-09-15T13:00:00Z"
+      },
+      {
+        "Home": "WOL",
+        "Away": "NEW",
+        "HomeScore": 1,
+        "AwayScore": 2,
+        "Kickoff": "2024-09-15T15:30:00Z"
+      }
+    ],
+    "5": [
+      {
+        "Home": "WHU",
+        "Away": "CHE",
+        "HomeScore": 0,
+        "AwayScore": 3,
+        "Kickoff": "2024-09-21T11:30:00Z"
+      },
+      {
+        "Home": "AVL",
+        "Away": "WOL",
+        "HomeScore": 3,
+        "AwayScore": 1,
+        "Kickoff": "2024-09-21T14:00:00Z"
+      },
+      {
+        "Home": "FUL",
+        "Away": "NEW",
+        "HomeScore": 3,
+        "AwayScore": 1,
+        "Kickoff": "2024-09-21T14:00:00Z"
+      },
+      {
+        "Home": "LEI",
+        "Away": "EVE",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-09-21T14:00:00Z"
+      },
+      {
+        "Home": "LIV",
+        "Away": "BOU",
+        "HomeScore": 3,
+        "AwayScore": 0,
+        "Kickoff": "2024-09-21T14:00:00Z"
+      },
+      {
+        "Home": "SOU",
+        "Away": "IPS",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-09-21T14:00:00Z"
+      },
+      {
+        "Home": "TOT",
+        "Away": "BRE",
+        "HomeScore": 3,
+        "AwayScore": 1,
+        "Kickoff": "2024-09-21T14:00:00Z"
+      },
+      {
+        "Home": "CRY",
+        "Away": "MUN",
+        "HomeScore": 0,
+        "AwayScore": 0,
+        "Kickoff": "2024-09-21T16:30:00Z"
+      },
+      {
+        "Home": "BHA",
+        "Away": "NFO",
+        "HomeScore": 2,
+        "AwayScore": 2,
+        "Kickoff": "2024-09-22T13:00:00Z"
+      },
+      {
+        "Home": "MCI",
+        "Away": "ARS",
+        "HomeScore": 2,
+        "AwayScore": 2,
+        "Kickoff": "2024-09-22T15:30:00Z"
+      }
+    ],
+    "6": [
+      {
+        "Home": "NEW",
+        "Away": "MCI",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-09-28T11:30:00Z"
+      },
+      {
+        "Home": "ARS",
+        "Away": "LEI",
+        "HomeScore": 4,
+        "AwayScore": 2,
+        "Kickoff": "2024-09-28T14:00:00Z"
+      },
+      {
+        "Home": "BRE",
+        "Away": "WHU",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-09-28T14:00:00Z"
+      },
+      {
+        "Home": "CHE",
+        "Away": "BHA",
+        "HomeScore": 4,
+        "AwayScore": 2,
+        "Kickoff": "2024-09-28T14:00:00Z"
+      },
+      {
+        "Home": "EVE",
+        "Away": "CRY",
+        "HomeScore": 2,
+        "AwayScore": 1,
+        "Kickoff": "2024-09-28T14:00:00Z"
+      },
+      {
+        "Home": "NFO",
+        "Away": "FUL",
+        "HomeScore": 0,
+        "AwayScore": 1,
+        "Kickoff": "2024-09-28T14:00:00Z"
+      },
+      {
+        "Home": "WOL",
+        "Away": "LIV",
+        "HomeScore": 1,
+        "AwayScore": 2,
+        "Kickoff": "2024-09-28T16:30:00Z"
+      },
+      {
+        "Home": "IPS",
+        "Away": "AVL",
+        "HomeScore": 2,
+        "AwayScore": 2,
+        "Kickoff": "2024-09-29T13:00:00Z"
+      },
+      {
+        "Home": "MUN",
+        "Away": "TOT",
+        "HomeScore": 0,
+        "AwayScore": 3,
+        "Kickoff": "2024-09-29T15:30:00Z"
+      },
+      {
+        "Home": "BOU",
+        "Away": "SOU",
+        "HomeScore": 3,
+        "AwayScore": 1,
+        "Kickoff": "2024-09-30T19:00:00Z"
+      }
+    ],
+    "7": [
+      {
+        "Home": "CRY",
+        "Away": "LIV",
+        "HomeScore": 0,
+        "AwayScore": 1,
+        "Kickoff": "2024-10-05T11:30:00Z"
+      },
+      {
+        "Home": "ARS",
+        "Away": "SOU",
+        "HomeScore": 3,
+        "AwayScore": 1,
+        "Kickoff": "2024-10-05T14:00:00Z"
+      },
+      {
+        "Home": "BRE",
+        "Away": "WOL",
+        "HomeScore": 5,
+        "AwayScore": 3,
+        "Kickoff": "2024-10-05T14:00:00Z"
+      },
+      {
+        "Home": "LEI",
+        "Away": "BOU",
+        "HomeScore": 1,
+        "AwayScore": 0,
+        "Kickoff": "2024-10-05T14:00:00Z"
+      },
+      {
+        "Home": "MCI",
+        "Away": "FUL",
+        "HomeScore": 3,
+        "AwayScore": 2,
+        "Kickoff": "2024-10-05T14:00:00Z"
+      },
+      {
+        "Home": "WHU",
+        "Away": "IPS",
+        "HomeScore": 4,
+        "AwayScore": 1,
+        "Kickoff": "2024-10-05T14:00:00Z"
+      },
+      {
+        "Home": "EVE",
+        "Away": "NEW",
+        "HomeScore": 0,
+        "AwayScore": 0,
+        "Kickoff": "2024-10-05T16:30:00Z"
+      },
+      {
+        "Home": "AVL",
+        "Away": "MUN",
+        "HomeScore": 0,
+        "AwayScore": 0,
+        "Kickoff": "2024-10-06T13:00:00Z"
+      },
+      {
+        "Home": "CHE",
+        "Away": "NFO",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-10-06T13:00:00Z"
+      },
+      {
+        "Home": "BHA",
+        "Away": "TOT",
+        "HomeScore": 3,
+        "AwayScore": 2,
+        "Kickoff": "2024-10-06T15:30:00Z"
+      }
+    ],
+    "8": [
+      {
+        "Home": "TOT",
+        "Away": "WHU",
+        "HomeScore": 4,
+        "AwayScore": 1,
+        "Kickoff": "2024-10-19T11:30:00Z"
+      },
+      {
+        "Home": "FUL",
+        "Away": "AVL",
+        "HomeScore": 1,
+        "AwayScore": 3,
+        "Kickoff": "2024-10-19T14:00:00Z"
+      },
+      {
+        "Home": "MUN",
+        "Away": "BRE",
+        "HomeScore": 2,
+        "AwayScore": 1,
+        "Kickoff": "2024-10-19T14:00:00Z"
+      },
+      {
+        "Home": "NEW",
+        "Away": "BHA",
+        "HomeScore": 0,
+        "AwayScore": 1,
+        "Kickoff": "2024-10-19T14:00:00Z"
+      },
+      {
+        "Home": "SOU",
+        "Away": "LEI",
+        "HomeScore": 2,
+        "AwayScore": 3,
+        "Kickoff": "2024-10-19T14:00:00Z"
+      },
+      {
+        "Home": "IPS",
+        "Away": "EVE",
+        "HomeScore": 0,
+        "AwayScore": 2,
+        "Kickoff": "2024-10-19T14:15:00Z"
+      },
+      {
+        "Home": "BOU",
+        "Away": "ARS",
+        "HomeScore": 2,
+        "AwayScore": 0,
+        "Kickoff": "2024-10-19T16:30:00Z"
+      },
+      {
+        "Home": "WOL",
+        "Away": "MCI",
+        "HomeScore": 1,
+        "AwayScore": 2,
+        "Kickoff": "2024-10-20T13:00:00Z"
+      },
+      {
+        "Home": "LIV",
+        "Away": "CHE",
+        "HomeScore": 2,
+        "AwayScore": 1,
+        "Kickoff": "2024-10-20T15:30:00Z"
+      },
+      {
+        "Home": "NFO",
+        "Away": "CRY",
+        "HomeScore": 1,
+        "AwayScore": 0,
+        "Kickoff": "2024-10-21T19:00:00Z"
+      }
+    ],
+    "9": [
+      {
+        "Home": "LEI",
+        "Away": "NFO",
+        "HomeScore": 1,
+        "AwayScore": 3,
+        "Kickoff": "2024-10-25T19:00:00Z"
+      },
+      {
+        "Home": "AVL",
+        "Away": "BOU",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-10-26T14:00:00Z"
+      },
+      {
+        "Home": "BRE",
+        "Away": "IPS",
+        "HomeScore": 4,
+        "AwayScore": 3,
+        "Kickoff": "2024-10-26T14:00:00Z"
+      },
+      {
+        "Home": "BHA",
+        "Away": "WOL",
+        "HomeScore": 2,
+        "AwayScore": 2,
+        "Kickoff": "2024-10-26T14:00:00Z"
+      },
+      {
+        "Home": "MCI",
+        "Away": "SOU",
+        "HomeScore": 1,
+        "AwayScore": 0,
+        "Kickoff": "2024-10-26T14:00:00Z"
+      },
+      {
+        "Home": "EVE",
+        "Away": "FUL",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-10-26T16:30:00Z"
+      },
+      {
+        "Home": "CHE",
+        "Away": "NEW",
+        "HomeScore": 2,
+        "AwayScore": 1,
+        "Kickoff": "2024-10-27T14:00:00Z"
+      },
+      {
+        "Home": "CRY",
+        "Away": "TOT",
+        "HomeScore": 1,
+        "AwayScore": 0,
+        "Kickoff": "2024-10-27T14:00:00Z"
+      },
+      {
+        "Home": "WHU",
+        "Away": "MUN",
+        "HomeScore": 2,
+        "AwayScore": 1,
+        "Kickoff": "2024-10-27T14:00:00Z"
+      },
+      {
+        "Home": "ARS",
+        "Away": "LIV",
+        "HomeScore": 2,
+        "AwayScore": 2,
+        "Kickoff": "2024-10-27T16:30:00Z"
+      }
+    ],
+    "10": [
+      {
+        "Home": "NEW",
+        "Away": "ARS",
+        "HomeScore": 1,
+        "AwayScore": 0,
+        "Kickoff": "2024-11-02T12:30:00Z"
+      },
+      {
+        "Home": "BOU",
+        "Away": "MCI",
+        "HomeScore": 2,
+        "AwayScore": 1,
+        "Kickoff": "2024-11-02T15:00:00Z"
+      },
+      {
+        "Home": "IPS",
+        "Away": "LEI",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-11-02T15:00:00Z"
+      },
+      {
+        "Home": "LIV",
+        "Away": "BHA",
+        "HomeScore": 2,
+        "AwayScore": 1,
+        "Kickoff": "2024-11-02T15:00:00Z"
+      },
+      {
+        "Home": "NFO",
+        "Away": "WHU",
+        "HomeScore": 3,
+        "AwayScore": 0,
+        "Kickoff": "2024-11-02T15:00:00Z"
+      },
+      {
+        "Home": "SOU",
+        "Away": "EVE",
+        "HomeScore": 1,
+        "AwayScore": 0,
+        "Kickoff": "2024-11-02T15:00:00Z"
+      },
+      {
+        "Home": "WOL",
+        "Away": "CRY",
+        "HomeScore": 2,
+        "AwayScore": 2,
+        "Kickoff": "2024-11-02T17:30:00Z"
+      },
+      {
+        "Home": "TOT",
+        "Away": "AVL",
+        "HomeScore": 4,
+        "AwayScore": 1,
+        "Kickoff": "2024-11-03T14:00:00Z"
+      },
+      {
+        "Home": "MUN",
+        "Away": "CHE",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-11-03T16:30:00Z"
+      },
+      {
+        "Home": "FUL",
+        "Away": "BRE",
+        "HomeScore": 2,
+        "AwayScore": 1,
+        "Kickoff": "2024-11-04T20:00:00Z"
+      }
+    ],
+    "11": [
+      {
+        "Home": "BRE",
+        "Away": "BOU",
+        "HomeScore": 3,
+        "AwayScore": 2,
+        "Kickoff": "2024-11-09T15:00:00Z"
+      },
+      {
+        "Home": "CRY",
+        "Away": "FUL",
+        "HomeScore": 0,
+        "AwayScore": 2,
+        "Kickoff": "2024-11-09T15:00:00Z"
+      },
+      {
+        "Home": "WHU",
+        "Away": "EVE",
+        "HomeScore": 0,
+        "AwayScore": 0,
+        "Kickoff": "2024-11-09T15:00:00Z"
+      },
+      {
+        "Home": "WOL",
+        "Away": "SOU",
+        "HomeScore": 2,
+        "AwayScore": 0,
+        "Kickoff": "2024-11-09T15:00:00Z"
+      },
+      {
+        "Home": "BHA",
+        "Away": "MCI",
+        "HomeScore": 2,
+        "AwayScore": 1,
+        "Kickoff": "2024-11-09T17:30:00Z"
+      },
+      {
+        "Home": "LIV",
+        "Away": "AVL",
+        "HomeScore": 2,
+        "AwayScore": 0,
+        "Kickoff": "2024-11-09T20:00:00Z"
+      },
+      {
+        "Home": "MUN",
+        "Away": "LEI",
+        "HomeScore": 3,
+        "AwayScore": 0,
+        "Kickoff": "2024-11-10T14:00:00Z"
+      },
+      {
+        "Home": "NFO",
+        "Away": "NEW",
+        "HomeScore": 1,
+        "AwayScore": 3,
+        "Kickoff": "2024-11-10T14:00:00Z"
+      },
+      {
+        "Home": "TOT",
+        "Away": "IPS",
+        "HomeScore": 1,
+        "AwayScore": 2,
+        "Kickoff": "2024-11-10T14:00:00Z"
+      },
+      {
+        "Home": "CHE",
+        "Away": "ARS",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-11-10T16:30:00Z"
+      }
+    ],
+    "12": [
+      {
+        "Home": "LEI",
+        "Away": "CHE",
+        "HomeScore": 1,
+        "AwayScore": 2,
+        "Kickoff": "2024-11-23T12:30:00Z"
+      },
+      {
+        "Home": "ARS",
+        "Away": "NFO",
+        "HomeScore": 3,
+        "AwayScore": 0,
+        "Kickoff": "2024-11-23T15:00:00Z"
+      },
+      {
+        "Home": "AVL",
+        "Away": "CRY",
+        "HomeScore": 2,
+        "AwayScore": 2,
+        "Kickoff": "2024-11-23T15:00:00Z"
+      },
+      {
+        "Home": "BOU",
+        "Away": "BHA",
+        "HomeScore": 1,
+        "AwayScore": 2,
+        "Kickoff": "2024-11-23T15:00:00Z"
+      },
+      {
+        "Home": "EVE",
+        "Away": "BRE",
+        "HomeScore": 0,
+        "AwayScore": 0,
+        "Kickoff": "2024-11-23T15:00:00Z"
+      },
+      {
+        "Home": "FUL",
+        "Away": "WOL",
+        "HomeScore": 1,
+        "AwayScore": 4,
+        "Kickoff": "2024-11-23T15:00:00Z"
+      },
+      {
+        "Home": "MCI",
+        "Away": "TOT",
+        "HomeScore": 0,
+        "AwayScore": 4,
+        "Kickoff": "2024-11-23T17:30:00Z"
+      },
+      {
+        "Home": "SOU",
+        "Away": "LIV",
+        "HomeScore": 2,
+        "AwayScore": 3,
+        "Kickoff": "2024-11-24T14:00:00Z"
+      },
+      {
+        "Home": "IPS",
+        "Away": "MUN",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-11-24T16:30:00Z"
+      },
+      {
+        "Home": "NEW",
+        "Away": "WHU",
+        "HomeScore": 0,
+        "AwayScore": 2,
+        "Kickoff": "2024-11-25T20:00:00Z"
+      }
+    ],
+    "13": [
+      {
+        "Home": "BHA",
+        "Away": "SOU",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-11-29T20:00:00Z"
+      },
+      {
+        "Home": "BRE",
+        "Away": "LEI",
+        "HomeScore": 4,
+        "AwayScore": 1,
+        "Kickoff": "2024-11-30T15:00:00Z"
+      },
+      {
+        "Home": "CRY",
+        "Away": "NEW",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-11-30T15:00:00Z"
+      },
+      {
+        "Home": "NFO",
+        "Away": "IPS",
+        "HomeScore": 1,
+        "AwayScore": 0,
+        "Kickoff": "2024-11-30T15:00:00Z"
+      },
+      {
+        "Home": "WOL",
+        "Away": "BOU",
+        "HomeScore": 2,
+        "AwayScore": 4,
+        "Kickoff": "2024-11-30T15:00:00Z"
+      },
+      {
+        "Home": "WHU",
+        "Away": "ARS",
+        "HomeScore": 2,
+        "AwayScore": 5,
+        "Kickoff": "2024-11-30T17:30:00Z"
+      },
+      {
+        "Home": "CHE",
+        "Away": "AVL",
+        "HomeScore": 3,
+        "AwayScore": 0,
+        "Kickoff": "2024-12-01T13:30:00Z"
+      },
+      {
+        "Home": "MUN",
+        "Away": "EVE",
+        "HomeScore": 4,
+        "AwayScore": 0,
+        "Kickoff": "2024-12-01T13:30:00Z"
+      },
+      {
+        "Home": "TOT",
+        "Away": "FUL",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-12-01T13:30:00Z"
+      },
+      {
+        "Home": "LIV",
+        "Away": "MCI",
+        "HomeScore": 2,
+        "AwayScore": 0,
+        "Kickoff": "2024-12-01T16:00:00Z"
+      }
+    ],
+    "14": [
+      {
+        "Home": "IPS",
+        "Away": "CRY",
+        "HomeScore": 0,
+        "AwayScore": 1,
+        "Kickoff": "2024-12-03T19:30:00Z"
+      },
+      {
+        "Home": "LEI",
+        "Away": "WHU",
+        "HomeScore": 3,
+        "AwayScore": 1,
+        "Kickoff": "2024-12-03T20:15:00Z"
+      },
+      {
+        "Home": "EVE",
+        "Away": "WOL",
+        "HomeScore": 4,
+        "AwayScore": 0,
+        "Kickoff": "2024-12-04T19:30:00Z"
+      },
+      {
+        "Home": "MCI",
+        "Away": "NFO",
+        "HomeScore": 3,
+        "AwayScore": 0,
+        "Kickoff": "2024-12-04T19:30:00Z"
+      },
+      {
+        "Home": "NEW",
+        "Away": "LIV",
+        "HomeScore": 3,
+        "AwayScore": 3,
+        "Kickoff": "2024-12-04T19:30:00Z"
+      },
+      {
+        "Home": "SOU",
+        "Away": "CHE",
+        "HomeScore": 1,
+        "AwayScore": 5,
+        "Kickoff": "2024-12-04T19:30:00Z"
+      },
+      {
+        "Home": "ARS",
+        "Away": "MUN",
+        "HomeScore": 2,
+        "AwayScore": 0,
+        "Kickoff": "2024-12-04T20:15:00Z"
+      },
+      {
+        "Home": "AVL",
+        "Away": "BRE",
+        "HomeScore": 3,
+        "AwayScore": 1,
+        "Kickoff": "2024-12-04T20:15:00Z"
+      },
+      {
+        "Home": "FUL",
+        "Away": "BHA",
+        "HomeScore": 3,
+        "AwayScore": 1,
+        "Kickoff": "2024-12-05T19:30:00Z"
+      },
+      {
+        "Home": "BOU",
+        "Away": "TOT",
+        "HomeScore": 1,
+        "AwayScore": 0,
+        "Kickoff": "2024-12-05T20:15:00Z"
+      }
+    ],
+    "15": [
+      {
+        "Home": "AVL",
+        "Away": "SOU",
+        "HomeScore": 1,
+        "AwayScore": 0,
+        "Kickoff": "2024-12-07T15:00:00Z"
+      },
+      {
+        "Home": "BRE",
+        "Away": "NEW",
+        "HomeScore": 4,
+        "AwayScore": 2,
+        "Kickoff": "2024-12-07T15:00:00Z"
+      },
+      {
+        "Home": "CRY",
+        "Away": "MCI",
+        "HomeScore": 2,
+        "AwayScore": 2,
+        "Kickoff": "2024-12-07T15:00:00Z"
+      },
+      {
+        "Home": "MUN",
+        "Away": "NFO",
+        "HomeScore": 2,
+        "AwayScore": 3,
+        "Kickoff": "2024-12-07T17:30:00Z"
+      },
+      {
+        "Home": "FUL",
+        "Away": "ARS",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-12-08T14:00:00Z"
+      },
+      {
+        "Home": "IPS",
+        "Away": "BOU",
+        "HomeScore": 1,
+        "AwayScore": 2,
+        "Kickoff": "2024-12-08T14:00:00Z"
+      },
+      {
+        "Home": "LEI",
+        "Away": "BHA",
+        "HomeScore": 2,
+        "AwayScore": 2,
+        "Kickoff": "2024-12-08T14:00:00Z"
+      },
+      {
+        "Home": "TOT",
+        "Away": "CHE",
+        "HomeScore": 3,
+        "AwayScore": 4,
+        "Kickoff": "2024-12-08T16:30:00Z"
+      },
+      {
+        "Home": "WHU",
+        "Away": "WOL",
+        "HomeScore": 2,
+        "AwayScore": 1,
+        "Kickoff": "2024-12-09T20:00:00Z"
+      }
+    ],
+    "16": [
+      {
+        "Home": "ARS",
+        "Away": "EVE",
+        "HomeScore": 0,
+        "AwayScore": 0,
+        "Kickoff": "2024-12-14T15:00:00Z"
+      },
+      {
+        "Home": "LIV",
+        "Away": "FUL",
+        "HomeScore": 2,
+        "AwayScore": 2,
+        "Kickoff": "2024-12-14T15:00:00Z"
+      },
+      {
+        "Home": "NEW",
+        "Away": "LEI",
+        "HomeScore": 4,
+        "AwayScore": 0,
+        "Kickoff": "2024-12-14T15:00:00Z"
+      },
+      {
+        "Home": "WOL",
+        "Away": "IPS",
+        "HomeScore": 1,
+        "AwayScore": 2,
+        "Kickoff": "2024-12-14T15:00:00Z"
+      },
+      {
+        "Home": "NFO",
+        "Away": "AVL",
+        "HomeScore": 2,
+        "AwayScore": 1,
+        "Kickoff": "2024-12-14T17:30:00Z"
+      },
+      {
+        "Home": "BHA",
+        "Away": "CRY",
+        "HomeScore": 1,
+        "AwayScore": 3,
+        "Kickoff": "2024-12-15T14:00:00Z"
+      },
+      {
+        "Home": "MCI",
+        "Away": "MUN",
+        "HomeScore": 1,
+        "AwayScore": 2,
+        "Kickoff": "2024-12-15T16:30:00Z"
+      },
+      {
+        "Home": "CHE",
+        "Away": "BRE",
+        "HomeScore": 2,
+        "AwayScore": 1,
+        "Kickoff": "2024-12-15T19:00:00Z"
+      },
+      {
+        "Home": "SOU",
+        "Away": "TOT",
+        "HomeScore": 0,
+        "AwayScore": 5,
+        "Kickoff": "2024-12-15T19:00:00Z"
+      },
+      {
+        "Home": "BOU",
+        "Away": "WHU",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-12-16T20:00:00Z"
+      }
+    ],
+    "17": [
+      {
+        "Home": "AVL",
+        "Away": "MCI",
+        "HomeScore": 2,
+        "AwayScore": 1,
+        "Kickoff": "2024-12-21T12:30:00Z"
+      },
+      {
+        "Home": "BRE",
+        "Away": "NFO",
+        "HomeScore": 0,
+        "AwayScore": 2,
+        "Kickoff": "2024-12-21T15:00:00Z"
+      },
+      {
+        "Home": "IPS",
+        "Away": "NEW",
+        "HomeScore": 0,
+        "AwayScore": 4,
+        "Kickoff": "2024-12-21T15:00:00Z"
+      },
+      {
+        "Home": "WHU",
+        "Away": "BHA",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-12-21T15:00:00Z"
+      },
+      {
+        "Home": "CRY",
+        "Away": "ARS",
+        "HomeScore": 1,
+        "AwayScore": 5,
+        "Kickoff": "2024-12-21T17:30:00Z"
+      },
+      {
+        "Home": "EVE",
+        "Away": "CHE",
+        "HomeScore": 0,
+        "AwayScore": 0,
+        "Kickoff": "2024-12-22T14:00:00Z"
+      },
+      {
+        "Home": "FUL",
+        "Away": "SOU",
+        "HomeScore": 0,
+        "AwayScore": 0,
+        "Kickoff": "2024-12-22T14:00:00Z"
+      },
+      {
+        "Home": "LEI",
+        "Away": "WOL",
+        "HomeScore": 0,
+        "AwayScore": 3,
+        "Kickoff": "2024-12-22T14:00:00Z"
+      },
+      {
+        "Home": "MUN",
+        "Away": "BOU",
+        "HomeScore": 0,
+        "AwayScore": 3,
+        "Kickoff": "2024-12-22T14:00:00Z"
+      },
+      {
+        "Home": "TOT",
+        "Away": "LIV",
+        "HomeScore": 3,
+        "AwayScore": 6,
+        "Kickoff": "2024-12-22T16:30:00Z"
+      }
+    ],
+    "18": [
+      {
+        "Home": "MCI",
+        "Away": "EVE",
+        "HomeScore": 1,
+        "AwayScore": 1,
+        "Kickoff": "2024-12-26T12:30:00Z"
+      },
+      {
+        "Home": "BOU",
+        "Away": "CRY",
+        "HomeScore": 0,
+        "AwayScore": 0,
+        "Kickoff": "2024-12-26T15:00:00Z"
+      },
+      {
+        "Home": "CHE",
+        "Away": "FUL",
+        "HomeScore": 1,
+        "AwayScore": 2,
+        "Kickoff": "2024-12-26T15:00:00Z"
+      },
+      {
+        "Home": "NEW",
+        "Away": "AVL",
+        "HomeScore": 3,
+        "AwayScore": 0,
+        "Kickoff": "2024-12-26T15:00:00Z"
+      },
+      {
+        "Home": "NFO",
+        "Away": "TOT",
+        "HomeScore": 1,
+        "AwayScore": 0,
+        "Kickoff": "2024-12-26T15:00:00Z"
+      },
+      {
+        "Home": "SOU",
+        "Away": "WHU",
+        "HomeScore": 0,
+        "AwayScore": 1,
+        "Kickoff": "2024-12-26T15:00:00Z"
+      },
+      {
+        "Home": "WOL",
+        "Away": "MUN",
+        "HomeScore": 2,
+        "AwayScore": 0,
+        "Kickoff": "2024-12-26T17:30:00Z"
+      },
+      {
+        "Home": "LIV",
+        "Away": "LEI",
+        "HomeScore": 3,
+        "AwayScore": 1,
+        "Kickoff": "2024-12-26T20:00:00Z"
+      },
+      {
+        "Home": "BHA",
+        "Away": "BRE",
+        "HomeScore": 0,
+        "AwayScore": 0,
+        "Kickoff": "2024-12-27T19:30:00Z"
+      },
+      {
+        "Home": "ARS",
+        "Away": "IPS",
+        "HomeScore": 1,
+        "AwayScore": 0,
+        "Kickoff": "2024-12-27T20:15:00Z"
+      }
+    ],
+    "19": [
+      {
+        "Home": "LEI",
+        "Away": "MCI",
+        "HomeScore": 0,
+        "AwayScore": 2,
+        "Kickoff": "2024-12-29T14:30:00Z"
+      },
+      {
+        "Home": "CRY",
+        "Away": "SOU",
+        "HomeScore": 2,
+        "AwayScore": 1,
+        "Kickoff": "2024-12-29T15:00:00Z"
+      },
+      {
+        "Home": "EVE",
+        "Away": "NFO",
+        "HomeScore": 0,
+        "AwayScore": 2,
+        "Kickoff": "2024-12-29T15:00:00Z"
+      },
+      {
+        "Home": "FUL",
+        "Away": "BOU",
+        "HomeScore": 2,
+        "AwayScore": 2,
+        "Kickoff": "2024-12-29T15:00:00Z"
+      },
+      {
+        "Home": "TOT",
+        "Away": "WOL",
+        "HomeScore": 2,
+        "AwayScore": 2,
+        "Kickoff": "2024-12-29T15:00:00Z"
+      },
+      {
+        "Home": "WHU",
+        "Away": "LIV",
+        "HomeScore": 0,
+        "AwayScore": 5,
+        "Kickoff": "2024-12-29T17:15:00Z"
+      },
+      {
+        "Home": "AVL",
+        "Away": "BHA",
+        "Kickoff": "2024-12-30T19:45:00Z"
+      },
+      {
+        "Home": "IPS",
+        "Away": "CHE",
+        "Kickoff": "2024-12-30T19:45:00Z"
+      },
+      {
+        "Home": "MUN",
+        "Away": "NEW",
+        "Kickoff": "2024-12-30T20:00:00Z"
+      },
+      {
+        "Home": "BRE",
+        "Away": "ARS",
+        "Kickoff": "2025-01-01T17:30:00Z"
+      }
+    ],
+    "20": [
+      {
+        "Home": "TOT",
+        "Away": "NEW",
+        "Kickoff": "2025-01-04T12:30:00Z"
+      },
+      {
+        "Home": "AVL",
+        "Away": "LEI",
+        "Kickoff": "2025-01-04T15:00:00Z"
+      },
+      {
+        "Home": "BOU",
+        "Away": "EVE",
+        "Kickoff": "2025-01-04T15:00:00Z"
+      },
+      {
+        "Home": "CRY",
+        "Away": "CHE",
+        "Kickoff": "2025-01-04T15:00:00Z"
+      },
+      {
+        "Home": "MCI",
+        "Away": "WHU",
+        "Kickoff": "2025-01-04T15:00:00Z"
+      },
+      {
+        "Home": "SOU",
+        "Away": "BRE",
+        "Kickoff": "2025-01-04T15:00:00Z"
+      },
+      {
+        "Home": "BHA",
+        "Away": "ARS",
+        "Kickoff": "2025-01-04T17:30:00Z"
+      },
+      {
+        "Home": "FUL",
+        "Away": "IPS",
+        "Kickoff": "2025-01-05T14:00:00Z"
+      },
+      {
+        "Home": "LIV",
+        "Away": "MUN",
+        "Kickoff": "2025-01-05T16:30:00Z"
+      },
+      {
+        "Home": "WOL",
+        "Away": "NFO",
+        "Kickoff": "2025-01-06T20:00:00Z"
+      }
+    ],
+    "21": [
+      {
+        "Home": "BRE",
+        "Away": "MCI",
+        "Kickoff": "2025-01-14T19:30:00Z"
+      },
+      {
+        "Home": "CHE",
+        "Away": "BOU",
+        "Kickoff": "2025-01-14T19:30:00Z"
+      },
+      {
+        "Home": "WHU",
+        "Away": "FUL",
+        "Kickoff": "2025-01-14T19:30:00Z"
+      },
+      {
+        "Home": "NFO",
+        "Away": "LIV",
+        "Kickoff": "2025-01-14T20:00:00Z"
+      },
+      {
+        "Home": "EVE",
+        "Away": "AVL",
+        "Kickoff": "2025-01-15T19:30:00Z"
+      },
+      {
+        "Home": "LEI",
+        "Away": "CRY",
+        "Kickoff": "2025-01-15T19:30:00Z"
+      },
+      {
+        "Home": "NEW",
+        "Away": "WOL",
+        "Kickoff": "2025-01-15T19:30:00Z"
+      },
+      {
+        "Home": "ARS",
+        "Away": "TOT",
+        "Kickoff": "2025-01-15T20:00:00Z"
+      },
+      {
+        "Home": "IPS",
+        "Away": "BHA",
+        "Kickoff": "2025-01-16T19:30:00Z"
+      },
+      {
+        "Home": "MUN",
+        "Away": "SOU",
+        "Kickoff": "2025-01-16T20:00:00Z"
+      }
+    ],
+    "22": [
+      {
+        "Home": "NEW",
+        "Away": "BOU",
+        "Kickoff": "2025-01-18T12:30:00Z"
+      },
+      {
+        "Home": "BRE",
+        "Away": "LIV",
+        "Kickoff": "2025-01-18T15:00:00Z"
+      },
+      {
+        "Home": "LEI",
+        "Away": "FUL",
+        "Kickoff": "2025-01-18T15:00:00Z"
+      },
+      {
+        "Home": "WHU",
+        "Away": "CRY",
+        "Kickoff": "2025-01-18T15:00:00Z"
+      },
+      {
+        "Home": "ARS",
+        "Away": "AVL",
+        "Kickoff": "2025-01-18T17:30:00Z"
+      },
+      {
+        "Home": "EVE",
+        "Away": "TOT",
+        "Kickoff": "2025-01-19T14:00:00Z"
+      },
+      {
+        "Home": "MUN",
+        "Away": "BHA",
+        "Kickoff": "2025-01-19T14:00:00Z"
+      },
+      {
+        "Home": "NFO",
+        "Away": "SOU",
+        "Kickoff": "2025-01-19T14:00:00Z"
+      },
+      {
+        "Home": "IPS",
+        "Away": "MCI",
+        "Kickoff": "2025-01-19T16:30:00Z"
+      },
+      {
+        "Home": "CHE",
+        "Away": "WOL",
+        "Kickoff": "2025-01-20T20:00:00Z"
+      }
+    ],
+    "23": [
+      {
+        "Home": "BOU",
+        "Away": "NFO",
+        "Kickoff": "2025-01-25T15:00:00Z"
+      },
+      {
+        "Home": "BHA",
+        "Away": "EVE",
+        "Kickoff": "2025-01-25T15:00:00Z"
+      },
+      {
+        "Home": "LIV",
+        "Away": "IPS",
+        "Kickoff": "2025-01-25T15:00:00Z"
+      },
+      {
+        "Home": "SOU",
+        "Away": "NEW",
+        "Kickoff": "2025-01-25T15:00:00Z"
+      },
+      {
+        "Home": "WOL",
+        "Away": "ARS",
+        "Kickoff": "2025-01-25T15:00:00Z"
+      },
+      {
+        "Home": "MCI",
+        "Away": "CHE",
+        "Kickoff": "2025-01-25T17:30:00Z"
+      },
+      {
+        "Home": "CRY",
+        "Away": "BRE",
+        "Kickoff": "2025-01-26T14:00:00Z"
+      },
+      {
+        "Home": "TOT",
+        "Away": "LEI",
+        "Kickoff": "2025-01-26T14:00:00Z"
+      },
+      {
+        "Home": "AVL",
+        "Away": "WHU",
+        "Kickoff": "2025-01-26T16:30:00Z"
+      },
+      {
+        "Home": "FUL",
+        "Away": "MUN",
+        "Kickoff": "2025-01-26T19:00:00Z"
+      }
+    ],
+    "24": [
+      {
+        "Home": "NFO",
+        "Away": "BHA",
+        "Kickoff": "2025-02-01T12:30:00Z"
+      },
+      {
+        "Home": "BOU",
+        "Away": "LIV",
+        "Kickoff": "2025-02-01T15:00:00Z"
+      },
+      {
+        "Home": "EVE",
+        "Away": "LEI",
+        "Kickoff": "2025-02-01T15:00:00Z"
+      },
+      {
+        "Home": "IPS",
+        "Away": "SOU",
+        "Kickoff": "2025-02-01T15:00:00Z"
+      },
+      {
+        "Home": "NEW",
+        "Away": "FUL",
+        "Kickoff": "2025-02-01T15:00:00Z"
+      },
+      {
+        "Home": "WOL",
+        "Away": "AVL",
+        "Kickoff": "2025-02-01T17:30:00Z"
+      },
+      {
+        "Home": "BRE",
+        "Away": "TOT",
+        "Kickoff": "2025-02-02T14:00:00Z"
+      },
+      {
+        "Home": "MUN",
+        "Away": "CRY",
+        "Kickoff": "2025-02-02T14:00:00Z"
+      },
+      {
+        "Home": "ARS",
+        "Away": "MCI",
+        "Kickoff": "2025-02-02T16:30:00Z"
+      },
+      {
+        "Home": "CHE",
+        "Away": "WHU",
+        "Kickoff": "2025-02-03T20:00:00Z"
+      }
+    ],
+    "25": [
+      {
+        "Home": "BHA",
+        "Away": "CHE",
+        "Kickoff": "2025-02-14T20:00:00Z"
+      },
+      {
+        "Home": "LEI",
+        "Away": "ARS",
+        "Kickoff": "2025-02-15T12:30:00Z"
+      },
+      {
+        "Home": "AVL",
+        "Away": "IPS",
+        "Kickoff": "2025-02-15T15:00:00Z"
+      },
+      {
+        "Home": "FUL",
+        "Away": "NFO",
+        "Kickoff": "2025-02-15T15:00:00Z"
+      },
+      {
+        "Home": "MCI",
+        "Away": "NEW",
+        "Kickoff": "2025-02-15T15:00:00Z"
+      },
+      {
+        "Home": "SOU",
+        "Away": "BOU",
+        "Kickoff": "2025-02-15T15:00:00Z"
+      },
+      {
+        "Home": "WHU",
+        "Away": "BRE",
+        "Kickoff": "2025-02-15T15:00:00Z"
+      },
+      {
+        "Home": "CRY",
+        "Away": "EVE",
+        "Kickoff": "2025-02-15T17:30:00Z"
+      },
+      {
+        "Home": "LIV",
+        "Away": "WOL",
+        "Kickoff": "2025-02-16T14:00:00Z"
+      },
+      {
+        "Home": "TOT",
+        "Away": "MUN",
+        "Kickoff": "2025-02-16T16:30:00Z"
+      }
+    ],
+    "26": [
+      {
+        "Home": "LEI",
+        "Away": "BRE",
+        "Kickoff": "2025-02-21T20:00:00Z"
+      },
+      {
+        "Home": "EVE",
+        "Away": "MUN",
+        "Kickoff": "2025-02-22T12:30:00Z"
+      },
+      {
+        "Home": "ARS",
+        "Away": "WHU",
+        "Kickoff": "2025-02-22T15:00:00Z"
+      },
+      {
+        "Home": "BOU",
+        "Away": "WOL",
+        "Kickoff": "2025-02-22T15:00:00Z"
+      },
+      {
+        "Home": "FUL",
+        "Away": "CRY",
+        "Kickoff": "2025-02-22T15:00:00Z"
+      },
+      {
+        "Home": "IPS",
+        "Away": "TOT",
+        "Kickoff": "2025-02-22T15:00:00Z"
+      },
+      {
+        "Home": "SOU",
+        "Away": "BHA",
+        "Kickoff": "2025-02-22T15:00:00Z"
+      },
+      {
+        "Home": "AVL",
+        "Away": "CHE",
+        "Kickoff": "2025-02-22T17:30:00Z"
+      },
+      {
+        "Home": "NEW",
+        "Away": "NFO",
+        "Kickoff": "2025-02-23T14:00:00Z"
+      },
+      {
+        "Home": "MCI",
+        "Away": "LIV",
+        "Kickoff": "2025-02-23T16:30:00Z"
+      }
+    ],
+    "27": [
+      {
+        "Home": "BRE",
+        "Away": "EVE",
+        "Kickoff": "2025-02-25T19:45:00Z"
+      },
+      {
+        "Home": "BHA",
+        "Away": "BOU",
+        "Kickoff": "2025-02-25T19:45:00Z"
+      },
+      {
+        "Home": "NFO",
+        "Away": "ARS",
+        "Kickoff": "2025-02-25T19:45:00Z"
+      },
+      {
+        "Home": "TOT",
+        "Away": "MCI",
+        "Kickoff": "2025-02-25T19:45:00Z"
+      },
+      {
+        "Home": "WHU",
+        "Away": "LEI",
+        "Kickoff": "2025-02-25T19:45:00Z"
+      },
+      {
+        "Home": "WOL",
+        "Away": "FUL",
+        "Kickoff": "2025-02-25T19:45:00Z"
+      },
+      {
+        "Home": "CRY",
+        "Away": "AVL",
+        "Kickoff": "2025-02-25T20:00:00Z"
+      },
+      {
+        "Home": "CHE",
+        "Away": "SOU",
+        "Kickoff": "2025-02-26T19:45:00Z"
+      },
+      {
+        "Home": "LIV",
+        "Away": "NEW",
+        "Kickoff": "2025-02-26T20:00:00Z"
+      },
+      {
+        "Home": "MUN",
+        "Away": "IPS",
+        "Kickoff": "2025-02-26T20:00:00Z"
+      }
+    ],
+    "28": [
+      {
+        "Home": "BRE",
+        "Away": "AVL",
+        "Kickoff": "2025-03-08T15:00:00Z"
+      },
+      {
+        "Home": "BHA",
+        "Away": "FUL",
+        "Kickoff": "2025-03-08T15:00:00Z"
+      },
+      {
+        "Home": "CHE",
+        "Away": "LEI",
+        "Kickoff": "2025-03-08T15:00:00Z"
+      },
+      {
+        "Home": "CRY",
+        "Away": "IPS",
+        "Kickoff": "2025-03-08T15:00:00Z"
+      },
+      {
+        "Home": "LIV",
+        "Away": "SOU",
+        "Kickoff": "2025-03-08T15:00:00Z"
+      },
+      {
+        "Home": "MUN",
+        "Away": "ARS",
+        "Kickoff": "2025-03-08T15:00:00Z"
+      },
+      {
+        "Home": "NFO",
+        "Away": "MCI",
+        "Kickoff": "2025-03-08T15:00:00Z"
+      },
+      {
+        "Home": "TOT",
+        "Away": "BOU",
+        "Kickoff": "2025-03-08T15:00:00Z"
+      },
+      {
+        "Home": "WHU",
+        "Away": "NEW",
+        "Kickoff": "2025-03-08T15:00:00Z"
+      },
+      {
+        "Home": "WOL",
+        "Away": "EVE",
+        "Kickoff": "2025-03-08T15:00:00Z"
+      }
+    ],
+    "29": [
+      {
+        "Home": "ARS",
+        "Away": "CHE",
+        "Kickoff": "2025-03-15T15:00:00Z"
+      },
+      {
+        "Home": "AVL",
+        "Away": "LIV",
+        "Kickoff": "2025-03-15T15:00:00Z"
+      },
+      {
+        "Home": "BOU",
+        "Away": "BRE",
+        "Kickoff": "2025-03-15T15:00:00Z"
+      },
+      {
+        "Home": "EVE",
+        "Away": "WHU",
+        "Kickoff": "2025-03-15T15:00:00Z"
+      },
+      {
+        "Home": "FUL",
+        "Away": "TOT",
+        "Kickoff": "2025-03-15T15:00:00Z"
+      },
+      {
+        "Home": "IPS",
+        "Away": "NFO",
+        "Kickoff": "2025-03-15T15:00:00Z"
+      },
+      {
+        "Home": "LEI",
+        "Away": "MUN",
+        "Kickoff": "2025-03-15T15:00:00Z"
+      },
+      {
+        "Home": "MCI",
+        "Away": "BHA",
+        "Kickoff": "2025-03-15T15:00:00Z"
+      },
+      {
+        "Home": "NEW",
+        "Away": "CRY",
+        "Kickoff": "2025-03-15T15:00:00Z"
+      },
+      {
+        "Home": "SOU",
+        "Away": "WOL",
+        "Kickoff": "2025-03-15T15:00:00Z"
+      }
+    ],
+    "30": [
+      {
+        "Home": "ARS",
+        "Away": "FUL",
+        "Kickoff": "2025-04-01T18:45:00Z"
+      },
+      {
+        "Home": "BOU",
+        "Away": "IPS",
+        "Kickoff": "2025-04-01T18:45:00Z"
+      },
+      {
+        "Home": "BHA",
+        "Away": "AVL",
+        "Kickoff": "2025-04-01T18:45:00Z"
+      },
+      {
+        "Home": "NFO",
+        "Away": "MUN",
+        "Kickoff": "2025-04-01T18:45:00Z"
+      },
+      {
+        "Home": "WOL",
+        "Away": "WHU",
+        "Kickoff": "2025-04-01T18:45:00Z"
+      },
+      {
+        "Home": "CHE",
+        "Away": "TOT",
+        "Kickoff": "2025-04-02T18:45:00Z"
+      },
+      {
+        "Home": "MCI",
+        "Away": "LEI",
+        "Kickoff": "2025-04-02T18:45:00Z"
+      },
+      {
+        "Home": "NEW",
+        "Away": "BRE",
+        "Kickoff": "2025-04-02T18:45:00Z"
+      },
+      {
+        "Home": "SOU",
+        "Away": "CRY",
+        "Kickoff": "2025-04-02T18:45:00Z"
+      },
+      {
+        "Home": "LIV",
+        "Away": "EVE",
+        "Kickoff": "2025-04-02T19:00:00Z"
+      }
+    ],
+    "31": [
+      {
+        "Home": "AVL",
+        "Away": "NFO",
+        "Kickoff": "2025-04-05T14:00:00Z"
+      },
+      {
+        "Home": "BRE",
+        "Away": "CHE",
+        "Kickoff": "2025-04-05T14:00:00Z"
+      },
+      {
+        "Home": "CRY",
+        "Away": "BHA",
+        "Kickoff": "2025-04-05T14:00:00Z"
+      },
+      {
+        "Home": "EVE",
+        "Away": "ARS",
+        "Kickoff": "2025-04-05T14:00:00Z"
+      },
+      {
+        "Home": "FUL",
+        "Away": "LIV",
+        "Kickoff": "2025-04-05T14:00:00Z"
+      },
+      {
+        "Home": "IPS",
+        "Away": "WOL",
+        "Kickoff": "2025-04-05T14:00:00Z"
+      },
+      {
+        "Home": "LEI",
+        "Away": "NEW",
+        "Kickoff": "2025-04-05T14:00:00Z"
+      },
+      {
+        "Home": "MUN",
+        "Away": "MCI",
+        "Kickoff": "2025-04-05T14:00:00Z"
+      },
+      {
+        "Home": "TOT",
+        "Away": "SOU",
+        "Kickoff": "2025-04-05T14:00:00Z"
+      },
+      {
+        "Home": "WHU",
+        "Away": "BOU",
+        "Kickoff": "2025-04-05T14:00:00Z"
+      }
+    ],
+    "32": [
+      {
+        "Home": "ARS",
+        "Away": "BRE",
+        "Kickoff": "2025-04-12T14:00:00Z"
+      },
+      {
+        "Home": "BOU",
+        "Away": "FUL",
+        "Kickoff": "2025-04-12T14:00:00Z"
+      },
+      {
+        "Home": "BHA",
+        "Away": "LEI",
+        "Kickoff": "2025-04-12T14:00:00Z"
+      },
+      {
+        "Home": "CHE",
+        "Away": "IPS",
+        "Kickoff": "2025-04-12T14:00:00Z"
+      },
+      {
+        "Home": "LIV",
+        "Away": "WHU",
+        "Kickoff": "2025-04-12T14:00:00Z"
+      },
+      {
+        "Home": "MCI",
+        "Away": "CRY",
+        "Kickoff": "2025-04-12T14:00:00Z"
+      },
+      {
+        "Home": "NEW",
+        "Away": "MUN",
+        "Kickoff": "2025-04-12T14:00:00Z"
+      },
+      {
+        "Home": "NFO",
+        "Away": "EVE",
+        "Kickoff": "2025-04-12T14:00:00Z"
+      },
+      {
+        "Home": "SOU",
+        "Away": "AVL",
+        "Kickoff": "2025-04-12T14:00:00Z"
+      },
+      {
+        "Home": "WOL",
+        "Away": "TOT",
+        "Kickoff": "2025-04-12T14:00:00Z"
+      }
+    ],
+    "33": [
+      {
+        "Home": "AVL",
+        "Away": "NEW",
+        "Kickoff": "2025-04-19T14:00:00Z"
+      },
+      {
+        "Home": "BRE",
+        "Away": "BHA",
+        "Kickoff": "2025-04-19T14:00:00Z"
+      },
+      {
+        "Home": "CRY",
+        "Away": "BOU",
+        "Kickoff": "2025-04-19T14:00:00Z"
+      },
+      {
+        "Home": "EVE",
+        "Away": "MCI",
+        "Kickoff": "2025-04-19T14:00:00Z"
+      },
+      {
+        "Home": "FUL",
+        "Away": "CHE",
+        "Kickoff": "2025-04-19T14:00:00Z"
+      },
+      {
+        "Home": "IPS",
+        "Away": "ARS",
+        "Kickoff": "2025-04-19T14:00:00Z"
+      },
+      {
+        "Home": "LEI",
+        "Away": "LIV",
+        "Kickoff": "2025-04-19T14:00:00Z"
+      },
+      {
+        "Home": "MUN",
+        "Away": "WOL",
+        "Kickoff": "2025-04-19T14:00:00Z"
+      },
+      {
+        "Home": "TOT",
+        "Away": "NFO",
+        "Kickoff": "2025-04-19T14:00:00Z"
+      },
+      {
+        "Home": "WHU",
+        "Away": "SOU",
+        "Kickoff": "2025-04-19T14:00:00Z"
+      }
+    ],
+    "34": [
+      {
+        "Home": "ARS",
+        "Away": "CRY",
+        "Kickoff": "2025-04-26T14:00:00Z"
+      },
+      {
+        "Home": "BOU",
+        "Away": "MUN",
+        "Kickoff": "2025-04-26T14:00:00Z"
+      },
+      {
+        "Home": "BHA",
+        "Away": "WHU",
+        "Kickoff": "2025-04-26T14:00:00Z"
+      },
+      {
+        "Home": "CHE",
+        "Away": "EVE",
+        "Kickoff": "2025-04-26T14:00:00Z"
+      },
+      {
+        "Home": "LIV",
+        "Away": "TOT",
+        "Kickoff": "2025-04-26T14:00:00Z"
+      },
+      {
+        "Home": "MCI",
+        "Away": "AVL",
+        "Kickoff": "2025-04-26T14:00:00Z"
+      },
+      {
+        "Home": "NEW",
+        "Away": "IPS",
+        "Kickoff": "2025-04-26T14:00:00Z"
+      },
+      {
+        "Home": "NFO",
+        "Away": "BRE",
+        "Kickoff": "2025-04-26T14:00:00Z"
+      },
+      {
+        "Home": "SOU",
+        "Away": "FUL",
+        "Kickoff": "2025-04-26T14:00:00Z"
+      },
+      {
+        "Home": "WOL",
+        "Away": "LEI",
+        "Kickoff": "2025-04-26T14:00:00Z"
+      }
+    ],
+    "35": [
+      {
+        "Home": "ARS",
+        "Away": "BOU",
+        "Kickoff": "2025-05-03T14:00:00Z"
+      },
+      {
+        "Home": "AVL",
+        "Away": "FUL",
+        "Kickoff": "2025-05-03T14:00:00Z"
+      },
+      {
+        "Home": "BRE",
+        "Away": "MUN",
+        "Kickoff": "2025-05-03T14:00:00Z"
+      },
+      {
+        "Home": "BHA",
+        "Away": "NEW",
+        "Kickoff": "2025-05-03T14:00:00Z"
+      },
+      {
+        "Home": "CHE",
+        "Away": "LIV",
+        "Kickoff": "2025-05-03T14:00:00Z"
+      },
+      {
+        "Home": "CRY",
+        "Away": "NFO",
+        "Kickoff": "2025-05-03T14:00:00Z"
+      },
+      {
+        "Home": "EVE",
+        "Away": "IPS",
+        "Kickoff": "2025-05-03T14:00:00Z"
+      },
+      {
+        "Home": "LEI",
+        "Away": "SOU",
+        "Kickoff": "2025-05-03T14:00:00Z"
+      },
+      {
+        "Home": "MCI",
+        "Away": "WOL",
+        "Kickoff": "2025-05-03T14:00:00Z"
+      },
+      {
+        "Home": "WHU",
+        "Away": "TOT",
+        "Kickoff": "2025-05-03T14:00:00Z"
+      }
+    ],
+    "36": [
+      {
+        "Home": "BOU",
+        "Away": "AVL",
+        "Kickoff": "2025-05-10T14:00:00Z"
+      },
+      {
+        "Home": "FUL",
+        "Away": "EVE",
+        "Kickoff": "2025-05-10T14:00:00Z"
+      },
+      {
+        "Home": "IPS",
+        "Away": "BRE",
+        "Kickoff": "2025-05-10T14:00:00Z"
+      },
+      {
+        "Home": "LIV",
+        "Away": "ARS",
+        "Kickoff": "2025-05-10T14:00:00Z"
+      },
+      {
+        "Home": "MUN",
+        "Away": "WHU",
+        "Kickoff": "2025-05-10T14:00:00Z"
+      },
+      {
+        "Home": "NEW",
+        "Away": "CHE",
+        "Kickoff": "2025-05-10T14:00:00Z"
+      },
+      {
+        "Home": "NFO",
+        "Away": "LEI",
+        "Kickoff": "2025-05-10T14:00:00Z"
+      },
+      {
+        "Home": "SOU",
+        "Away": "MCI",
+        "Kickoff": "2025-05-10T14:00:00Z"
+      },
+      {
+        "Home": "TOT",
+        "Away": "CRY",
+        "Kickoff": "2025-05-10T14:00:00Z"
+      },
+      {
+        "Home": "WOL",
+        "Away": "BHA",
+        "Kickoff": "2025-05-10T14:00:00Z"
+      }
+    ],
+    "37": [
+      {
+        "Home": "ARS",
+        "Away": "NEW",
+        "Kickoff": "2025-05-18T14:00:00Z"
+      },
+      {
+        "Home": "AVL",
+        "Away": "TOT",
+        "Kickoff": "2025-05-18T14:00:00Z"
+      },
+      {
+        "Home": "BRE",
+        "Away": "FUL",
+        "Kickoff": "2025-05-18T14:00:00Z"
+      },
+      {
+        "Home": "BHA",
+        "Away": "LIV",
+        "Kickoff": "2025-05-18T14:00:00Z"
+      },
+      {
+        "Home": "CHE",
+        "Away": "MUN",
+        "Kickoff": "2025-05-18T14:00:00Z"
+      },
+      {
+        "Home": "CRY",
+        "Away": "WOL",
+        "Kickoff": "2025-05-18T14:00:00Z"
+      },
+      {
+        "Home": "EVE",
+        "Away": "SOU",
+        "Kickoff": "2025-05-18T14:00:00Z"
+      },
+      {
+        "Home": "LEI",
+        "Away": "IPS",
+        "Kickoff": "2025-05-18T14:00:00Z"
+      },
+      {
+        "Home": "MCI",
+        "Away": "BOU",
+        "Kickoff": "2025-05-18T14:00:00Z"
+      },
+      {
+        "Home": "WHU",
+        "Away": "NFO",
+        "Kickoff": "2025-05-18T14:00:00Z"
+      }
+    ],
+    "38": [
+      {
+        "Home": "BOU",
+        "Away": "LEI",
+        "Kickoff": "2025-05-25T15:00:00Z"
+      },
+      {
+        "Home": "FUL",
+        "Away": "MCI",
+        "Kickoff": "2025-05-25T15:00:00Z"
+      },
+      {
+        "Home": "IPS",
+        "Away": "WHU",
+        "Kickoff": "2025-05-25T15:00:00Z"
+      },
+      {
+        "Home": "LIV",
+        "Away": "CRY",
+        "Kickoff": "2025-05-25T15:00:00Z"
+      },
+      {
+        "Home": "MUN",
+        "Away": "AVL",
+        "Kickoff": "2025-05-25T15:00:00Z"
+      },
+      {
+        "Home": "NEW",
+        "Away": "EVE",
+        "Kickoff": "2025-05-25T15:00:00Z"
+      },
+      {
+        "Home": "NFO",
+        "Away": "CHE",
+        "Kickoff": "2025-05-25T15:00:00Z"
+      },
+      {
+        "Home": "SOU",
+        "Away": "ARS",
+        "Kickoff": "2025-05-25T15:00:00Z"
+      },
+      {
+        "Home": "TOT",
+        "Away": "BHA",
+        "Kickoff": "2025-05-25T15:00:00Z"
+      },
+      {
+        "Home": "WOL",
+        "Away": "BRE",
+        "Kickoff": "2025-05-25T15:00:00Z"
+      }
+    ]
+  },
+  "cupFixtures": [
+    {
+      "Competition": "UEFA Europa League",
+      "Team": "MUN",
+      "Opponent": "Twente",
+      "GW": 5,
+      "Kickoff": "2024-09-25T19:00:00Z",
+      "Score": "1-1"
+    },
+    {
+      "Competition": "UEFA Europa League",
+      "Team": "TOT",
+      "Opponent": "Qarabağ",
+      "GW": 5,
+      "Kickoff": "2024-09-26T19:35:00Z",
+      "Score": "3-0"
+    },
+    {
+      "Competition": "UEFA Europa League",
+      "Team": "TOT",
+      "Opponent": "Ferencváros",
+      "GW": 6,
+      "Kickoff": "2024-10-03T16:45:00Z",
+      "Score": "2-1"
+    },
+    {
+      "Competition": "UEFA Europa League",
+      "Team": "MUN",
+      "Opponent": "Porto",
+      "GW": 6,
+      "Kickoff": "2024-10-03T19:00:00Z",
+      "Score": "3-3"
+    },
+    {
+      "Competition": "UEFA Europa League",
+      "Team": "MUN",
+      "Opponent": "Fenerbahçe",
+      "GW": 8,
+      "Kickoff": "2024-10-24T19:00:00Z",
+      "Score": "1-1"
+    },
+    {
+      "Competition": "UEFA Europa League",
+      "Team": "TOT",
+      "Opponent": "AZ",
+      "GW": 8,
+      "Kickoff": "2024-10-24T19:00:00Z",
+      "Score": "1-0"
+    },
+    {
+      "Competition": "UEFA Europa League",
+      "Team": "TOT",
+      "Opponent": "Galatasaray",
+      "GW": 10,
+      "Kickoff": "2024-11-07T17:45:00Z",
+      "Score": "2-3"
+    },
+    {
+      "Competition": "UEFA Europa League",
+      "Team": "MUN",
+      "Opponent": "PAOK",
+      "GW": 10,
+      "Kickoff": "2024-11-07T20:00:00Z",
+      "Score": "2-0"
+    },
+    {
+      "Competition": "UEFA Europa League",
+      "Team": "MUN",
+      "Opponent": "Bodø / Glimt",
+      "GW": 12,
+      "Kickoff": "2024-11-28T20:00:00Z",
+      "Score": "3-2"
+    },
+    {
+      "Competition": "UEFA Europa League",
+      "Team": "TOT",
+      "Opponent": "Roma",
+      "GW": 12,
+      "Kickoff": "2024-11-28T20:00:00Z",
+      "Score": "2-2"
+    },
+    {
+      "Competition": "UEFA Europa League",
+      "Team": "MUN",
+      "Opponent": "Viktoria Plzeň",
+      "GW": 15,
+      "Kickoff": "2024-12-12T17:45:00Z",
+      "Score": "2-1"
+    },
+    {
+      "Competition": "UEFA Europa League",
+      "Team": "TOT",
+      "Opponent": "Rangers",
+      "GW": 15,
+      "Kickoff": "2024-12-12T20:00:00Z",
+      "Score": "1-1"
+    },
+    {
+      "Competition": "UEFA Europa League",
+      "Team": "TOT",
+      "Opponent": "Hoffenheim",
+      "GW": 22,
+      "Kickoff": "2025-01-23T17:45:00Z"
+    },
+    {
+      "Competition": "UEFA Europa League",
+      "Team": "MUN",
+      "Opponent": "Rangers",
+      "GW": 22,
+      "Kickoff": "2025-01-23T20:00:00Z"
+    },
+    {
+      "Competition": "UEFA Europa League",
+      "Team": "MUN",
+      "Opponent": "FCSB",
+      "GW": 23,
+      "Kickoff": "2025-01-30T20:00:00Z"
+    },
+    {
+      "Competition": "UEFA Europa League",
+      "Team": "TOT",
+      "Opponent": "Elfsborg",
+      "GW": 23,
+      "Kickoff": "2025-01-30T20:00:00Z"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "BHA",
+      "Opponent": "Crawley Town",
+      "GW": 2,
+      "Kickoff": "2024-08-27T18:45:00Z",
+      "Score": "4-0"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "EVE",
+      "Opponent": "Doncaster Rovers",
+      "GW": 2,
+      "Kickoff": "2024-08-27T18:45:00Z",
+      "Score": "3-0"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "LEI",
+      "Opponent": "Tranmere Rovers",
+      "GW": 2,
+      "Kickoff": "2024-08-27T18:45:00Z",
+      "Score": "4-0"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "FUL",
+      "Opponent": "Birmingham City",
+      "GW": 2,
+      "Kickoff": "2024-08-27T19:00:00Z",
+      "Score": "2-0"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "CRY",
+      "Opponent": "Norwich City",
+      "GW": 2,
+      "Kickoff": "2024-08-27T19:00:00Z",
+      "Score": "4-0"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "WOL",
+      "Opponent": "Burnley",
+      "GW": 2,
+      "Kickoff": "2024-08-28T18:30:00Z",
+      "Score": "2-0"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "IPS",
+      "Opponent": "AFC Wimbledon",
+      "GW": 2,
+      "Kickoff": "2024-08-28T18:45:00Z",
+      "Score": "2-2"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "SOU",
+      "Opponent": "Cardiff City",
+      "GW": 2,
+      "Kickoff": "2024-08-28T18:45:00Z",
+      "Score": "5-3"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "BRE",
+      "Opponent": "Colchester United",
+      "GW": 2,
+      "Kickoff": "2024-08-28T18:45:00Z",
+      "Score": "1-0"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "WHU",
+      "Opponent": "AFC Bournemouth",
+      "GW": 2,
+      "Kickoff": "2024-08-28T18:45:00Z",
+      "Score": "1-0"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "BOU",
+      "Opponent": "West Ham United",
+      "GW": 2,
+      "Kickoff": "2024-08-28T18:45:00Z",
+      "Score": "0-1"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "NFO",
+      "Opponent": "Newcastle United",
+      "GW": 2,
+      "Kickoff": "2024-08-28T19:00:00Z",
+      "Score": "1-1"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "NEW",
+      "Opponent": "Nottingham Forest",
+      "GW": 2,
+      "Kickoff": "2024-08-28T19:00:00Z",
+      "Score": "1-1"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "BRE",
+      "Opponent": "Leyton Orient",
+      "GW": 4,
+      "Kickoff": "2024-09-17T18:45:00Z",
+      "Score": "3-1"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "EVE",
+      "Opponent": "Southampton",
+      "GW": 4,
+      "Kickoff": "2024-09-17T18:45:00Z",
+      "Score": "1-1"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "SOU",
+      "Opponent": "Everton",
+      "GW": 4,
+      "Kickoff": "2024-09-17T18:45:00Z",
+      "Score": "1-1"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "FUL",
+      "Opponent": "Preston North End",
+      "GW": 4,
+      "Kickoff": "2024-09-17T18:45:00Z",
+      "Score": "1-1"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "CRY",
+      "Opponent": "Queens Park Rangers",
+      "GW": 4,
+      "Kickoff": "2024-09-17T18:45:00Z",
+      "Score": "2-1"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "MUN",
+      "Opponent": "Barnsley",
+      "GW": 4,
+      "Kickoff": "2024-09-17T19:00:00Z",
+      "Score": "7-0"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "BHA",
+      "Opponent": "Wolverhampton Wanderers",
+      "GW": 4,
+      "Kickoff": "2024-09-18T18:45:00Z",
+      "Score": "3-2"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "WOL",
+      "Opponent": "Brighton & Hove Albion",
+      "GW": 4,
+      "Kickoff": "2024-09-18T18:45:00Z",
+      "Score": "2-3"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "TOT",
+      "Opponent": "Coventry City",
+      "GW": 4,
+      "Kickoff": "2024-09-18T19:00:00Z",
+      "Score": "2-1"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "CHE",
+      "Opponent": "Barrow",
+      "GW": 5,
+      "Kickoff": "2024-09-24T18:45:00Z",
+      "Score": "5-0"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "MCI",
+      "Opponent": "Watford",
+      "GW": 5,
+      "Kickoff": "2024-09-24T18:45:00Z",
+      "Score": "2-1"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "LEI",
+      "Opponent": "Walsall",
+      "GW": 5,
+      "Kickoff": "2024-09-24T18:45:00Z",
+      "Score": "0-0"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "AVL",
+      "Opponent": "Wycombe Wanderers",
+      "GW": 5,
+      "Kickoff": "2024-09-24T19:00:00Z",
+      "Score": "2-1"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "ARS",
+      "Opponent": "Bolton Wanderers",
+      "GW": 5,
+      "Kickoff": "2024-09-25T18:45:00Z",
+      "Score": "5-1"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "LIV",
+      "Opponent": "West Ham United",
+      "GW": 5,
+      "Kickoff": "2024-09-25T19:00:00Z",
+      "Score": "5-1"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "WHU",
+      "Opponent": "Liverpool",
+      "GW": 5,
+      "Kickoff": "2024-09-25T19:00:00Z",
+      "Score": "1-5"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "NEW",
+      "Opponent": "AFC Wimbledon",
+      "GW": 6,
+      "Kickoff": "2024-10-01T18:45:00Z",
+      "Score": "1-0"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "SOU",
+      "Opponent": "Stoke City",
+      "GW": 9,
+      "Kickoff": "2024-10-29T19:45:00Z",
+      "Score": "3-2"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "BRE",
+      "Opponent": "Sheffield Wednesday",
+      "GW": 9,
+      "Kickoff": "2024-10-29T20:00:00Z",
+      "Score": "1-1"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "BHA",
+      "Opponent": "Liverpool",
+      "GW": 9,
+      "Kickoff": "2024-10-30T19:30:00Z",
+      "Score": "2-3"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "LIV",
+      "Opponent": "Brighton & Hove Albion",
+      "GW": 9,
+      "Kickoff": "2024-10-30T19:30:00Z",
+      "Score": "3-2"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "AVL",
+      "Opponent": "Crystal Palace",
+      "GW": 9,
+      "Kickoff": "2024-10-30T19:45:00Z",
+      "Score": "1-2"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "CRY",
+      "Opponent": "Aston Villa",
+      "GW": 9,
+      "Kickoff": "2024-10-30T19:45:00Z",
+      "Score": "2-1"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "MUN",
+      "Opponent": "Leicester City",
+      "GW": 9,
+      "Kickoff": "2024-10-30T19:45:00Z",
+      "Score": "5-2"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "LEI",
+      "Opponent": "Manchester United",
+      "GW": 9,
+      "Kickoff": "2024-10-30T19:45:00Z",
+      "Score": "2-5"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "NEW",
+      "Opponent": "Chelsea",
+      "GW": 9,
+      "Kickoff": "2024-10-30T19:45:00Z",
+      "Score": "2-0"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "CHE",
+      "Opponent": "Newcastle United",
+      "GW": 9,
+      "Kickoff": "2024-10-30T19:45:00Z",
+      "Score": "0-2"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "ARS",
+      "Opponent": "Preston North End",
+      "GW": 9,
+      "Kickoff": "2024-10-30T19:45:00Z",
+      "Score": "3-0"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "TOT",
+      "Opponent": "Manchester City",
+      "GW": 9,
+      "Kickoff": "2024-10-30T20:15:00Z",
+      "Score": "2-1"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "MCI",
+      "Opponent": "Tottenham Hotspur",
+      "GW": 9,
+      "Kickoff": "2024-10-30T20:15:00Z",
+      "Score": "1-2"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "ARS",
+      "Opponent": "Crystal Palace",
+      "GW": 16,
+      "Kickoff": "2024-12-18T19:30:00Z",
+      "Score": "3-2"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "CRY",
+      "Opponent": "Arsenal",
+      "GW": 16,
+      "Kickoff": "2024-12-18T19:30:00Z",
+      "Score": "2-3"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "NEW",
+      "Opponent": "Brentford",
+      "GW": 16,
+      "Kickoff": "2024-12-18T19:45:00Z",
+      "Score": "3-1"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "BRE",
+      "Opponent": "Newcastle United",
+      "GW": 16,
+      "Kickoff": "2024-12-18T19:45:00Z",
+      "Score": "1-3"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "SOU",
+      "Opponent": "Liverpool",
+      "GW": 16,
+      "Kickoff": "2024-12-18T20:00:00Z",
+      "Score": "1-2"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "LIV",
+      "Opponent": "Southampton",
+      "GW": 16,
+      "Kickoff": "2024-12-18T20:00:00Z",
+      "Score": "2-1"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "TOT",
+      "Opponent": "Manchester United",
+      "GW": 16,
+      "Kickoff": "2024-12-19T20:00:00Z",
+      "Score": "4-3"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "MUN",
+      "Opponent": "Tottenham Hotspur",
+      "GW": 16,
+      "Kickoff": "2024-12-19T20:00:00Z",
+      "Score": "3-4"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "ARS",
+      "Opponent": "Newcastle United",
+      "GW": 20,
+      "Kickoff": "2025-01-07T20:00:00Z"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "NEW",
+      "Opponent": "Arsenal",
+      "GW": 20,
+      "Kickoff": "2025-01-07T20:00:00Z"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "TOT",
+      "Opponent": "Liverpool",
+      "GW": 20,
+      "Kickoff": "2025-01-08T20:00:00Z"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "LIV",
+      "Opponent": "Tottenham Hotspur",
+      "GW": 20,
+      "Kickoff": "2025-01-08T20:00:00Z"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "NEW",
+      "Opponent": "Arsenal",
+      "GW": 24,
+      "Kickoff": "2025-02-05T20:00:00Z"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "ARS",
+      "Opponent": "Newcastle United",
+      "GW": 24,
+      "Kickoff": "2025-02-05T20:00:00Z"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "LIV",
+      "Opponent": "Tottenham Hotspur",
+      "GW": 24,
+      "Kickoff": "2025-02-06T20:00:00Z"
+    },
+    {
+      "Competition": "League Cup",
+      "Team": "TOT",
+      "Opponent": "Liverpool",
+      "GW": 24,
+      "Kickoff": "2025-02-06T20:00:00Z"
+    },
+    {
+      "Competition": "FA Cup",
+      "Team": "EVE",
+      "Opponent": "Peterborough United",
+      "GW": 20,
+      "Kickoff": "2025-01-09T19:45:00Z"
+    },
+    {
+      "Competition": "FA Cup",
+      "Team": "FUL",
+      "Opponent": "Watford",
+      "GW": 20,
+      "Kickoff": "2025-01-09T19:45:00Z"
+    },
+    {
+      "Competition": "FA Cup",
+      "Team": "AVL",
+      "Opponent": "West Ham United",
+      "GW": 20,
+      "Kickoff": "2025-01-10T20:00:00Z"
+    },
+    {
+      "Competition": "FA Cup",
+      "Team": "WHU",
+      "Opponent": "Aston Villa",
+      "GW": 20,
+      "Kickoff": "2025-01-10T20:00:00Z"
+    },
+    {
+      "Competition": "FA Cup",
+      "Team": "WOL",
+      "Opponent": "Bristol City",
+      "GW": 20,
+      "Kickoff": "2025-01-11T12:00:00Z"
+    },
+    {
+      "Competition": "FA Cup",
+      "Team": "LIV",
+      "Opponent": "Accrington Stanley",
+      "GW": 20,
+      "Kickoff": "2025-01-11T12:15:00Z"
+    },
+    {
+      "Competition": "FA Cup",
+      "Team": "LEI",
+      "Opponent": "Queens Park Rangers",
+      "GW": 20,
+      "Kickoff": "2025-01-11T14:00:00Z"
+    },
+    {
+      "Competition": "FA Cup",
+      "Team": "BOU",
+      "Opponent": "West Bromwich Albion",
+      "GW": 20,
+      "Kickoff": "2025-01-11T15:00:00Z"
+    },
+    {
+      "Competition": "FA Cup",
+      "Team": "BRE",
+      "Opponent": "Plymouth Argyle",
+      "GW": 20,
+      "Kickoff": "2025-01-11T15:00:00Z"
+    },
+    {
+      "Competition": "FA Cup",
+      "Team": "CHE",
+      "Opponent": "Morecambe",
+      "GW": 20,
+      "Kickoff": "2025-01-11T15:00:00Z"
+    },
+    {
+      "Competition": "FA Cup",
+      "Team": "BHA",
+      "Opponent": "Norwich City",
+      "GW": 20,
+      "Kickoff": "2025-01-11T15:00:00Z"
+    },
+    {
+      "Competition": "FA Cup",
+      "Team": "NFO",
+      "Opponent": "Luton Town",
+      "GW": 20,
+      "Kickoff": "2025-01-11T15:00:00Z"
+    },
+    {
+      "Competition": "FA Cup",
+      "Team": "MCI",
+      "Opponent": "Salford City",
+      "GW": 20,
+      "Kickoff": "2025-01-11T17:45:00Z"
+    },
+    {
+      "Competition": "FA Cup",
+      "Team": "TOT",
+      "Opponent": "Tamworth",
+      "GW": 20,
+      "Kickoff": "2025-01-12T12:30:00Z"
+    },
+    {
+      "Competition": "FA Cup",
+      "Team": "ARS",
+      "Opponent": "Manchester United",
+      "GW": 20,
+      "Kickoff": "2025-01-12T15:00:00Z"
+    },
+    {
+      "Competition": "FA Cup",
+      "Team": "MUN",
+      "Opponent": "Arsenal",
+      "GW": 20,
+      "Kickoff": "2025-01-12T15:00:00Z"
+    },
+    {
+      "Competition": "FA Cup",
+      "Team": "CRY",
+      "Opponent": "Stockport County",
+      "GW": 20,
+      "Kickoff": "2025-01-12T15:00:00Z"
+    },
+    {
+      "Competition": "FA Cup",
+      "Team": "IPS",
+      "Opponent": "Bristol Rovers",
+      "GW": 20,
+      "Kickoff": "2025-01-12T15:00:00Z"
+    },
+    {
+      "Competition": "FA Cup",
+      "Team": "NEW",
+      "Opponent": "Bromley",
+      "GW": 20,
+      "Kickoff": "2025-01-12T15:00:00Z"
+    },
+    {
+      "Competition": "FA Cup",
+      "Team": "SOU",
+      "Opponent": "Swansea City",
+      "GW": 20,
+      "Kickoff": "2025-01-12T16:30:00Z"
+    },
+    {
+      "Competition": "UEFA Conference League",
+      "Team": "CHE",
+      "Opponent": "Servette",
+      "GW": 1,
+      "Kickoff": "2024-08-22T19:00:00Z",
+      "Score": "2-0"
+    },
+    {
+      "Competition": "UEFA Conference League",
+      "Team": "CHE",
+      "Opponent": "Servette",
+      "GW": 2,
+      "Kickoff": "2024-08-29T18:30:00Z",
+      "Score": "1-2"
+    },
+    {
+      "Competition": "UEFA Conference League",
+      "Team": "CHE",
+      "Opponent": "Gent",
+      "GW": 6,
+      "Kickoff": "2024-10-03T19:00:00Z",
+      "Score": "4-2"
+    },
+    {
+      "Competition": "UEFA Conference League",
+      "Team": "CHE",
+      "Opponent": "Panathinaikos",
+      "GW": 8,
+      "Kickoff": "2024-10-24T16:45:00Z",
+      "Score": "4-1"
+    },
+    {
+      "Competition": "UEFA Conference League",
+      "Team": "CHE",
+      "Opponent": "Noah",
+      "GW": 10,
+      "Kickoff": "2024-11-07T20:00:00Z",
+      "Score": "8-0"
+    },
+    {
+      "Competition": "UEFA Conference League",
+      "Team": "CHE",
+      "Opponent": "Heidenheim",
+      "GW": 12,
+      "Kickoff": "2024-11-28T17:45:00Z",
+      "Score": "2-0"
+    },
+    {
+      "Competition": "UEFA Conference League",
+      "Team": "CHE",
+      "Opponent": "Astana",
+      "GW": 15,
+      "Kickoff": "2024-12-12T15:30:00Z",
+      "Score": "3-1"
+    },
+    {
+      "Competition": "UEFA Conference League",
+      "Team": "CHE",
+      "Opponent": "Shamrock Rovers",
+      "GW": 16,
+      "Kickoff": "2024-12-19T20:00:00Z",
+      "Score": "5-1"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "AVL",
+      "Opponent": "Young Boys",
+      "GW": 4,
+      "Kickoff": "2024-09-17T16:45:00Z",
+      "Score": "3-0"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "LIV",
+      "Opponent": "AC Milan",
+      "GW": 4,
+      "Kickoff": "2024-09-17T19:00:00Z",
+      "Score": "3-1"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "MCI",
+      "Opponent": "Inter Milan",
+      "GW": 4,
+      "Kickoff": "2024-09-18T19:00:00Z",
+      "Score": "0-0"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "ARS",
+      "Opponent": "Atalanta",
+      "GW": 4,
+      "Kickoff": "2024-09-19T19:00:00Z",
+      "Score": "0-0"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "ARS",
+      "Opponent": "PSG",
+      "GW": 6,
+      "Kickoff": "2024-10-01T19:00:00Z",
+      "Score": "2-0"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "MCI",
+      "Opponent": "Slovan Bratislava",
+      "GW": 6,
+      "Kickoff": "2024-10-01T19:00:00Z",
+      "Score": "4-0"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "AVL",
+      "Opponent": "Bayern Munich",
+      "GW": 6,
+      "Kickoff": "2024-10-02T19:00:00Z",
+      "Score": "1-0"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "LIV",
+      "Opponent": "Bologna",
+      "GW": 6,
+      "Kickoff": "2024-10-02T19:00:00Z",
+      "Score": "2-0"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "ARS",
+      "Opponent": "Shakhtar Donetsk",
+      "GW": 8,
+      "Kickoff": "2024-10-22T19:00:00Z",
+      "Score": "1-0"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "AVL",
+      "Opponent": "Bologna",
+      "GW": 8,
+      "Kickoff": "2024-10-22T19:00:00Z",
+      "Score": "2-0"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "MCI",
+      "Opponent": "Sparta Prague",
+      "GW": 8,
+      "Kickoff": "2024-10-23T19:00:00Z",
+      "Score": "5-0"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "LIV",
+      "Opponent": "RB Leipzig",
+      "GW": 8,
+      "Kickoff": "2024-10-23T19:00:00Z",
+      "Score": "1-0"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "LIV",
+      "Opponent": "Bayer Leverkusen",
+      "GW": 10,
+      "Kickoff": "2024-11-05T20:00:00Z",
+      "Score": "4-0"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "MCI",
+      "Opponent": "Sporting CP",
+      "GW": 10,
+      "Kickoff": "2024-11-05T20:00:00Z",
+      "Score": "1-4"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "AVL",
+      "Opponent": "Club Brugge",
+      "GW": 10,
+      "Kickoff": "2024-11-06T17:45:00Z",
+      "Score": "0-1"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "ARS",
+      "Opponent": "Inter Milan",
+      "GW": 10,
+      "Kickoff": "2024-11-06T20:00:00Z",
+      "Score": "0-1"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "MCI",
+      "Opponent": "Feyenoord",
+      "GW": 12,
+      "Kickoff": "2024-11-26T20:00:00Z",
+      "Score": "3-3"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "ARS",
+      "Opponent": "Sporting CP",
+      "GW": 12,
+      "Kickoff": "2024-11-26T20:00:00Z",
+      "Score": "5-1"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "AVL",
+      "Opponent": "Juventus",
+      "GW": 12,
+      "Kickoff": "2024-11-27T20:00:00Z",
+      "Score": "0-0"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "LIV",
+      "Opponent": "Real Madrid",
+      "GW": 12,
+      "Kickoff": "2024-11-27T20:00:00Z",
+      "Score": "2-0"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "LIV",
+      "Opponent": "Girona",
+      "GW": 15,
+      "Kickoff": "2024-12-10T17:45:00Z",
+      "Score": "1-0"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "AVL",
+      "Opponent": "RB Leipzig",
+      "GW": 15,
+      "Kickoff": "2024-12-10T20:00:00Z",
+      "Score": "3-2"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "ARS",
+      "Opponent": "Monaco",
+      "GW": 15,
+      "Kickoff": "2024-12-11T20:00:00Z",
+      "Score": "3-0"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "MCI",
+      "Opponent": "Juventus",
+      "GW": 15,
+      "Kickoff": "2024-12-11T20:00:00Z",
+      "Score": "0-2"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "AVL",
+      "Opponent": "Monaco",
+      "GW": 22,
+      "Kickoff": "2025-01-21T17:45:00Z"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "LIV",
+      "Opponent": "Lille",
+      "GW": 22,
+      "Kickoff": "2025-01-21T20:00:00Z"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "ARS",
+      "Opponent": "Dinamo Zagreb",
+      "GW": 22,
+      "Kickoff": "2025-01-22T20:00:00Z"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "MCI",
+      "Opponent": "PSG",
+      "GW": 22,
+      "Kickoff": "2025-01-22T20:00:00Z"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "AVL",
+      "Opponent": "Celtic",
+      "GW": 23,
+      "Kickoff": "2025-01-29T20:00:00Z"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "ARS",
+      "Opponent": "Girona",
+      "GW": 23,
+      "Kickoff": "2025-01-29T20:00:00Z"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "MCI",
+      "Opponent": "Club Brugge",
+      "GW": 23,
+      "Kickoff": "2025-01-29T20:00:00Z"
+    },
+    {
+      "Competition": "UEFA Champions League",
+      "Team": "LIV",
+      "Opponent": "PSV",
+      "GW": 23,
+      "Kickoff": "2025-01-29T20:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "extensionDescription": {
+    "description": "Next gen FPL tools",
+    "message": "Next gen tools integrated into FPL"
+  },
+  "extensionName": {
+    "description": "Winning FPL",
+    "message": "Next gen FPL tool"
+  },
+  "loading": {
+    "message": "Loading..."
+  }
+}
